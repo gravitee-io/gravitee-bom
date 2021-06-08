@@ -1,0 +1,93 @@
+= Gravitee.io - Bill Of Material POM
+:group-id: io.gravitee
+:artifact-id: gravitee-bom
+:version: 1.0-SNAPSHOT
+:mvn-badge-uri: https://maven-badges.herokuapp.com/maven-central/{group-id}/{artifact-id}
+:veye-badge-base-uri: https://www.versioneye.com/user/projects
+
+image:{mvn-badge-uri}/badge.svg[Maven Central, link="{mvn-badge-uri}"]
+
+== Usage
+
+Add the following fragment to your pom.xml:
+
+[source, xml, subs="verbatim, attributes"]
+----
+<dependencyManagement>
+    <dependencies>
+        <dependency>
+            <groupId>{group-id}</groupId>
+            <artifactId>{artifact-id}</artifactId>
+            <version>{version}</version>
+            <type>pom</type>
+            <scope>import</scope>
+        </dependency>
+    </dependencies>
+</dependencyManagement>
+----
+
+Make sure your project inherit from the gravitee-parent >= v20.0
+
+[source, xml]
+----
+<parent>
+    <groupId>io.gravitee</groupId>
+    <artifactId>gravitee-parent</artifactId>
+    <version>20.0-SNAPSHOT</version>
+</parent>
+----
+
+== BOM vs Parent
+
+Starting from version 20.0, `gravitee-parent` does no longer include development dependencies and will focus on configuring build and maven plugins only.
+
+All common development dependencies are now managed using `gravitee-bom` giving us more flexibility, and a complete independence regarding how we build Gravitee's products (CI) and what dependencies we need to develop them.
+
+== When move to gravitee-bom
+
+Gravitee BOM includes latest versions of development dependencies. It means that previous version of Gravitee's product may not be compatible.
+
+DO NOT MOVE TO Gravitee BOM unless you are confident about the compatibility of the dependencies declared in the bom. The most significant dependencies are:
+
+- *vertx 4.0.3*
+- *netty 4.1.60*
+- *spring 5.2.14*
+
+Basically, you should consider migrating to gravitee-bom starting from 3.10.0 of Gravitee.
+
+== How to override a dependency version
+
+With `gravitee-bom`, dependencies are no longer inherited but *imported*. It means that if you want to upgrade a dependency locally only for your project you should follow these steps:
+
+. Ask yourself if it could be better to upgrade `gravitee-bom` instead, it could benefit to all Gravitee's projects.
+. If not, ask someone else of your team, you could be surprised ;-)
+. Ok, you really need to override that dependency version, I understand. There are plenty of situations where it makes a lot of sense. Just read on and you'll be good.
+
+To override a dependency, you just have to redeclare it in the `<dependency-management />` section of your project's parent pom.
+
+The following example shows you how you can easily reimport the `spring-framework-bom` and specify your own version:
+
+[source, xml, subs="verbatim, attributes"]
+----
+<dependency-management>
+    <dependencies>
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-framework-bom</artifactId>
+            <version>${spring.version}</version>
+            <type>pom</type>
+            <scope>import</scope>
+        </dependency>
+        <!-- Import bom to properly inherit all dependencies -->
+        <dependency>
+            <groupId>{group-id}</groupId>
+            <artifactId>{artifact-id}</artifactId>
+            <version>{version}</version>
+            <type>pom</type>
+            <scope>import</scope>
+        </dependency>
+    </dependencies>
+</dependency-management>
+----
+
+For those who think Maven is magic, there is no black magic under the hood. Maven will just resolve the version of the dependency taking the one defined closest to your project. However, you may have noticed that *bom is imported after the spring-framework dependency because the precedence is applied in the order of appearance.*
