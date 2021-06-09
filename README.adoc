@@ -1,7 +1,7 @@
 = Gravitee.io - Bill Of Material POM
 :group-id: io.gravitee
 :artifact-id: gravitee-bom
-:version: 1.0-SNAPSHOT
+:version: 1.2-SNAPSHOT
 :mvn-badge-uri: https://maven-badges.herokuapp.com/maven-central/{group-id}/{artifact-id}
 :veye-badge-base-uri: https://www.versioneye.com/user/projects
 
@@ -33,7 +33,7 @@ Make sure your project inherit from the gravitee-parent >= v20.0
 <parent>
     <groupId>io.gravitee</groupId>
     <artifactId>gravitee-parent</artifactId>
-    <version>20.0-SNAPSHOT</version>
+    <version>20.0</version>
 </parent>
 ----
 
@@ -49,9 +49,9 @@ Gravitee BOM includes latest versions of development dependencies. It means that
 
 DO NOT MOVE TO Gravitee BOM unless you are confident about the compatibility of the dependencies declared in the bom. The most significant dependencies are:
 
-- *vertx 4.0.3*
-- *netty 4.1.60*
-- *spring 5.2.14*
+- *vertx 4.1.0*
+- *netty 4.1.65.Final*
+- *spring 5.3.8*
 
 Basically, you should consider migrating to gravitee-bom starting from 3.10.0 of Gravitee.
 
@@ -69,7 +69,11 @@ The following example shows you how you can easily reimport the `spring-framewor
 
 [source, xml, subs="verbatim, attributes"]
 ----
-<dependency-management>
+<properties>
+    <spring.version>5.2.4</spring.version>
+</properties>
+
+<dependencyManagement>
     <dependencies>
         <dependency>
             <groupId>org.springframework</groupId>
@@ -87,7 +91,7 @@ The following example shows you how you can easily reimport the `spring-framewor
             <scope>import</scope>
         </dependency>
     </dependencies>
-</dependency-management>
+</dependencyManagement>
 ----
 
 For those who think Maven is magic, there is no black magic under the hood. Maven will just resolve the version of the dependency taking the one defined closest to your project. However, you may have noticed that *bom is imported after the spring-framework dependency because the precedence is applied in the order of appearance.*
