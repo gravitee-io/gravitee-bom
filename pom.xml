@@ -70,7 +70,7 @@
         <jersey.version>2.30.1</jersey.version>
         <logback.version>1.2.3</logback.version>
         <mockito.version>3.6.0</mockito.version>
-        <jackson.version>2.10.3</jackson.version>
+        <jackson.version>2.10.5.20201202</jackson.version>
         <rxjava.version>2.2.19</rxjava.version>
         <reactive-streams.version>1.0.3</reactive-streams.version>
         <assertj-core.version>3.12.1</assertj-core.version>
