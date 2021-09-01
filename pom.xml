@@ -65,6 +65,8 @@
         <jersey.version>2.35</jersey.version>
         <jetty.version>9.4.43.v20210629</jetty.version>
         <junit.version>4.13.1</junit.version>
+        <junit-jupiter.version>5.7.2</junit-jupiter.version>
+        <mockito-junit-jupiter.version>3.12.4</mockito-junit-jupiter.version>
         <logback.version>1.2.5</logback.version>
         <logback-json.version>0.1.5</logback-json.version>
         <mockito.version>3.11.2</mockito.version>
@@ -209,6 +211,24 @@
                 <groupId>junit</groupId>
                 <artifactId>junit</artifactId>
                 <version>${junit.version}</version>
+                <scope>test</scope>
+            </dependency>
+            <dependency>
+                <groupId>org.junit.jupiter</groupId>
+                <artifactId>junit-jupiter-engine</artifactId>
+                <version>${junit-jupiter.version}</version>
+                <scope>test</scope>
+            </dependency>
+            <dependency>
+                <groupId>org.junit.jupiter</groupId>
+                <artifactId>junit-jupiter-params</artifactId>
+                <version>${junit-jupiter.version}</version>
+                <scope>test</scope>
+            </dependency>
+            <dependency>
+                <groupId>org.mockito</groupId>
+                <artifactId>mockito-junit-jupiter</artifactId>
+                <version>${mockito-junit-jupiter.version}</version>
                 <scope>test</scope>
             </dependency>
             <dependency>
