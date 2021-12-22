@@ -65,7 +65,7 @@
         <jersey.version>2.35</jersey.version>
         <jetty.version>9.4.44.v20210927</jetty.version>
         <junit.version>4.13.1</junit.version>
-        <junit-jupiter.version>5.7.2</junit-jupiter.version>
+        <junit-jupiter.version>5.8.2</junit-jupiter.version>
         <mockito-junit-jupiter.version>3.12.4</mockito-junit-jupiter.version>
         <logback.version>1.2.10</logback.version>
         <logback-json.version>0.1.5</logback-json.version>
