@@ -49,9 +49,9 @@ Gravitee BOM includes latest versions of development dependencies. It means that
 
 DO NOT MOVE TO Gravitee BOM unless you are confident about the compatibility of the dependencies declared in the bom. The most significant dependencies are:
 
-- *vertx 4.2.4*
-- *netty 4.1.72.Final*
-- *spring 5.3.15*
+- *vertx 4.2.6*
+- *netty 4.1.74.Final*
+- *spring 5.3.18*
 
 Basically, you should consider migrating to gravitee-bom starting from 3.10.0 of Gravitee.
 
