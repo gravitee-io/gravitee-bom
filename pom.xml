@@ -72,7 +72,8 @@
         <mockito.version>3.11.2</mockito.version>
         <netty.version>4.1.74.Final</netty.version>
         <reactive-streams.version>1.0.3</reactive-streams.version>
-        <rxjava.version>2.2.21</rxjava.version>
+        <rxjava2.version>2.2.21</rxjava2.version>
+        <rxjava3.version>3.1.5</rxjava3.version>
         <slf4j.version>1.7.36</slf4j.version>
         <spring.version>5.3.18</spring.version>
         <spring-security.version>5.5.5</spring-security.version>
@@ -206,7 +207,12 @@
             <dependency>
                 <groupId>io.reactivex.rxjava2</groupId>
                 <artifactId>rxjava</artifactId>
-                <version>${rxjava.version}</version>
+                <version>${rxjava2.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>io.reactivex.rxjava3</groupId>
+                <artifactId>rxjava</artifactId>
+                <version>${rxjava3.version}</version>
             </dependency>
             <dependency>
                 <groupId>org.reactivestreams</groupId>
