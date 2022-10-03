@@ -75,7 +75,7 @@
         <rxjava.version>2.2.21</rxjava.version>
         <slf4j.version>1.7.36</slf4j.version>
         <spring.version>5.3.18</spring.version>
-        <spring-security.version>5.5.5</spring-security.version>
+        <spring-security.version>5.5.7</spring-security.version>
         <vertx.version>4.2.7</vertx.version>
     </properties>
 
