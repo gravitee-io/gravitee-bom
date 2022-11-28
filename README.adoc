@@ -1,11 +1,15 @@
 = Gravitee.io - Bill Of Material POM
 :group-id: io.gravitee
 :artifact-id: gravitee-bom
-:version: 2.0-SNAPSHOT
+:version: 3.0.0
 :mvn-badge-uri: https://maven-badges.herokuapp.com/maven-central/{group-id}/{artifact-id}
 :veye-badge-base-uri: https://www.versioneye.com/user/projects
 
 image:{mvn-badge-uri}/badge.svg[Maven Central, link="{mvn-badge-uri}"]
+image:https://img.shields.io/badge/License-Apache%202.0-blue.svg["License", link="https://github.com/gravitee-io/gravitee-bom/blob/master/LICENSE.txt"]
+image:https://img.shields.io/badge/semantic--release-conventional%20commits-e10079?logo=semantic-release["Releases", link="https://github.com/gravitee-io/gravitee-bom/releases"]
+image:https://circleci.com/gh/gravitee-io/gravitee-bom.svg?style=svg["CircleCI", link="https://circleci.com/gh/gravitee-io/gravitee-bom"]
+image:https://f.hubspotusercontent40.net/hubfs/7600448/gravitee-github-button.jpg["Join the community forum", link="https://community.gravitee.io?utm_source=readme", height=20]
 
 == Usage
 
