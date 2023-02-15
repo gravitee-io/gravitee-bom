@@ -1,3 +1,12 @@
+## [3.0.2](https://github.com/gravitee-io/gravitee-bom/compare/3.0.1...3.0.2) (2023-02-15)
+
+
+### Reverts
+
+* Revert "fix: bump `vertx`, `jackson` and `netty`" ([fcee639](https://github.com/gravitee-io/gravitee-bom/commit/fcee639c4fb5e8321f2a79885ea7b7e528b6c83d))
+* Revert "fix: bump `spring` and `spring-security`" ([c7db977](https://github.com/gravitee-io/gravitee-bom/commit/c7db977b9940da743119c7e90f896eadb184ec1e))
+* Revert "fix: bump `assertj` to `3.24.2`" ([baa7196](https://github.com/gravitee-io/gravitee-bom/commit/baa7196648d1c5b95c6615531606c6366c44b840))
+
 ## [3.0.1](https://github.com/gravitee-io/gravitee-bom/compare/3.0.0...3.0.1) (2023-02-14)
 
 
