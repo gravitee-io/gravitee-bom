@@ -1,3 +1,22 @@
+# [4.0.0-alpha.1](https://github.com/gravitee-io/gravitee-bom/compare/3.0.2...4.0.0-alpha.1) (2023-02-16)
+
+
+### Bug Fixes
+
+* bump `assertj` to `3.24.2` ([f89248f](https://github.com/gravitee-io/gravitee-bom/commit/f89248f058568832d996c4069196e5090f50c861))
+* bump `jackson` to `2.14.2` ([709a4cb](https://github.com/gravitee-io/gravitee-bom/commit/709a4cba267d691a54c301ebbba78a4f62842da6)), closes [/github.com/gravitee-io/gravitee-bom/pull/53#discussion_r1106905735](https://github.com//github.com/gravitee-io/gravitee-bom/pull/53/issues/discussion_r1106905735)
+* bump `junit-jupiter` to `5.9.2` ([e1504ac](https://github.com/gravitee-io/gravitee-bom/commit/e1504ace710a14c33c85faf2560f50b61ed71883))
+* bump `lombok` to `1.18.26` ([288c865](https://github.com/gravitee-io/gravitee-bom/commit/288c865381e43ac7b21e89b72f2ef124176af6be))
+* bump `reactive-streams` to `1.0.4` ([e70df8c](https://github.com/gravitee-io/gravitee-bom/commit/e70df8cc8fd19de4f21cb8019149b3cd204850d3))
+* bump `rxjava3` to `3.1.6` ([41fd2b7](https://github.com/gravitee-io/gravitee-bom/commit/41fd2b77a8abc2eea0ef4276ebc1f34ba5175d11))
+* bump `spring` and `spring-security` ([68198f7](https://github.com/gravitee-io/gravitee-bom/commit/68198f75a669d3cc2dce92f93166d8c8e1b0a2cb))
+* bump `vertx`, `jackson` and `netty` ([699bc13](https://github.com/gravitee-io/gravitee-bom/commit/699bc134ec70ee8269909559f7daffe6590b1b94))
+
+
+### BREAKING CHANGES
+
+* Vert.x update might contain breaking changes
+
 ## [3.0.2](https://github.com/gravitee-io/gravitee-bom/compare/3.0.1...3.0.2) (2023-02-15)
 
 
