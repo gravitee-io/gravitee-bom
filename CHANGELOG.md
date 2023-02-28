@@ -1,3 +1,15 @@
+# [4.0.0-alpha.2](https://github.com/gravitee-io/gravitee-bom/compare/4.0.0-alpha.1...4.0.0-alpha.2) (2023-02-28)
+
+
+### Features
+
+* bump mockito version to latest and use bom ([4eea63f](https://github.com/gravitee-io/gravitee-bom/commit/4eea63f3e1fb5bd728cc1cb0b8f8615218542b55))
+
+
+### BREAKING CHANGES
+
+* use latest version of mockito 5.1.1
+
 # [4.0.0-alpha.1](https://github.com/gravitee-io/gravitee-bom/compare/3.0.2...4.0.0-alpha.1) (2023-02-16)
 
 
