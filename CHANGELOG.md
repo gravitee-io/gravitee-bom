@@ -1,3 +1,11 @@
+## [3.0.6](https://github.com/gravitee-io/gravitee-bom/compare/3.0.5...3.0.6) (2023-04-20)
+
+
+### Bug Fixes
+
+* **deps:** update dependency org.projectlombok:lombok to v1.18.26 ([727ca07](https://github.com/gravitee-io/gravitee-bom/commit/727ca07a998fe87fd17807bf3275cfc47194813b))
+* **deps:** update dependency org.springframework:spring-framework-bom to v5.3.27 ([331ad39](https://github.com/gravitee-io/gravitee-bom/commit/331ad39af715f56cce21d0ebb1516c2e541fae5a))
+
 ## [3.0.5](https://github.com/gravitee-io/gravitee-bom/compare/3.0.4...3.0.5) (2023-04-20)
 
 
