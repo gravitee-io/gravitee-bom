@@ -1,3 +1,10 @@
+## [3.0.5](https://github.com/gravitee-io/gravitee-bom/compare/3.0.4...3.0.5) (2023-04-20)
+
+
+### Bug Fixes
+
+* **deps:** update dependency org.reactivestreams:reactive-streams to v1.0.4 ([27f80e8](https://github.com/gravitee-io/gravitee-bom/commit/27f80e8b5cfe54b18a754b80dee7b04ca562b0ee))
+
 ## [3.0.4](https://github.com/gravitee-io/gravitee-bom/compare/3.0.3...3.0.4) (2023-04-20)
 
 
