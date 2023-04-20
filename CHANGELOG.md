@@ -1,3 +1,10 @@
+## [3.0.4](https://github.com/gravitee-io/gravitee-bom/compare/3.0.3...3.0.4) (2023-04-20)
+
+
+### Bug Fixes
+
+* **deps:** update dependency org.mockito:mockito-core to v3.12.4 ([19d7451](https://github.com/gravitee-io/gravitee-bom/commit/19d7451ea01d5a6a6880dcc8d8869e733c556063))
+
 ## [3.0.3](https://github.com/gravitee-io/gravitee-bom/compare/3.0.2...3.0.3) (2023-04-20)
 
 
