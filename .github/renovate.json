@@ -5,7 +5,11 @@
   "packageRules": [
     {
       "groupName": "Vert.x and related dependencies",
-      "matchPackagePatterns": ["io.vertx:vertx-*", "io.netty:*"]
+      "matchPackagePatterns": [
+        "io.vertx:vertx-*",
+        "io.netty:*",
+        "com.fasterxml.jackson:*"
+      ]
     },
     {
       "matchDatasources": ["orb"],
