@@ -1,6 +1,7 @@
 {
   "extends": ["config:base"],
   "rebaseWhen": "conflicted",
+  "baseBranches": ["master", "3.x"],
   "packageRules": [
     {
       "matchDatasources": ["orb"],
