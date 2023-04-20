@@ -15,6 +15,24 @@
       "semanticCommitType": "ci"
     },
     {
+      "matchPackagePatterns": ["org.projectlombok:*", "io.reactivex.rxjava3:*"],
+      "matchUpdateTypes": ["patch", "minor"],
+      "automerge": true,
+      "automergeType": "branch",
+      "semanticCommitType": "fix"
+    },
+    {
+      "matchPackagePatterns": [
+        "org.springframework:spring-framework-bom",
+        "org.springframework.security:spring-security-bom",
+        "org.slf4j:*"
+      ],
+      "matchUpdateTypes": ["patch"],
+      "automerge": true,
+      "automergeType": "branch",
+      "semanticCommitType": "fix"
+    },
+    {
       "matchDepTypes": ["test"],
       "matchUpdateTypes": ["patch", "minor"],
       "automerge": true,
