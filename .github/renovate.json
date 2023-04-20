@@ -19,7 +19,12 @@
       "semanticCommitType": "ci"
     },
     {
-      "matchPackagePatterns": ["org.projectlombok:*", "io.reactivex.rxjava3:*"],
+      "matchPackagePatterns": [
+        "org.projectlombok:*",
+        "io.reactivex.rxjava2:*",
+        "io.reactivex.rxjava3:*",
+        "org.reactivestreams:*"
+      ],
       "matchUpdateTypes": ["patch", "minor"],
       "automerge": true,
       "automergeType": "branch",
