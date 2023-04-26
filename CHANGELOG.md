@@ -1,3 +1,10 @@
+## [3.0.9](https://github.com/gravitee-io/gravitee-bom/compare/3.0.8...3.0.9) (2023-04-26)
+
+
+### Bug Fixes
+
+* bump `jackson` dependencies to `2.13.5` ([53701e3](https://github.com/gravitee-io/gravitee-bom/commit/53701e37651c0fada02262a3679f12c06330be69))
+
 ## [3.0.8](https://github.com/gravitee-io/gravitee-bom/compare/3.0.7...3.0.8) (2023-04-26)
 
 
