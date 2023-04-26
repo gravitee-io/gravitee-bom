@@ -49,6 +49,13 @@
       "semanticCommitType": "fix"
     },
     {
+      "matchPackagePatterns": ["org.junit:*", "org.mockito:*"],
+      "matchUpdateTypes": ["patch", "minor"],
+      "automerge": true,
+      "automergeType": "branch",
+      "semanticCommitType": "fix"
+    },
+    {
       "matchUpdateTypes": ["major"],
       "matchBaseBranches": ["3.x"],
       "enabled": false
