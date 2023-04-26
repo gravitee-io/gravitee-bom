@@ -5,11 +5,7 @@
   "packageRules": [
     {
       "groupName": "Vert.x and related dependencies",
-      "matchPackagePatterns": [
-        "io.vertx:vertx-*",
-        "io.netty:*",
-        "com.fasterxml.jackson:*"
-      ]
+      "matchPackagePatterns": ["io.vertx:vertx-*", "io.netty:*"]
     },
     {
       "matchDatasources": ["orb"],
@@ -34,7 +30,8 @@
       "matchPackagePatterns": [
         "org.springframework:spring-framework-bom",
         "org.springframework.security:spring-security-bom",
-        "org.slf4j:*"
+        "org.slf4j:*",
+        "com.fasterxml.jackson:*"
       ],
       "matchUpdateTypes": ["patch"],
       "automerge": true,
