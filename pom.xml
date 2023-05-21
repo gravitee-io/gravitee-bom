@@ -20,7 +20,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>gravitee-bom</artifactId>
-    <version>4.0.3</version>
+    <version>5.0.0-archi-216-spring6-run-e2e-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <parent>
@@ -62,20 +62,21 @@
     <properties>
         <assertj-core.version>3.24.2</assertj-core.version>
         <jackson.version>2.14.2</jackson.version>
-        <jersey.version>2.35</jersey.version>
-        <jetty.version>9.4.44.v20210927</jetty.version>
+        <jersey.version>3.1.1</jersey.version>
+        <jetty.version>11.0.15</jetty.version>
         <junit.version>4.13.2</junit.version>
         <junit-jupiter.version>5.9.3</junit-jupiter.version>
         <logback.version>1.2.11</logback.version>
         <logback-json.version>0.1.5</logback-json.version>
         <mockito.version>5.3.1</mockito.version>
+        <mockito-inline.version>5.2.0</mockito-inline.version>
         <netty.version>4.1.87.Final</netty.version>
         <reactive-streams.version>1.0.4</reactive-streams.version>
         <rxjava2.version>2.2.21</rxjava2.version>
         <rxjava3.version>3.1.6</rxjava3.version>
         <slf4j.version>1.7.36</slf4j.version>
-        <spring.version>5.3.27</spring.version>
-        <spring-security.version>5.5.8</spring-security.version>
+        <spring.version>6.0.9</spring.version>
+        <spring-security.version>6.1.0</spring-security.version>
         <vertx.version>4.3.8</vertx.version>
         <lombok.version>1.18.26</lombok.version>
     </properties>
@@ -268,7 +269,7 @@
             <dependency>
                 <groupId>org.mockito</groupId>
                 <artifactId>mockito-inline</artifactId>
-                <version>${mockito.version}</version>
+                <version>${mockito-inline.version}</version>
                 <scope>test</scope>
             </dependency>
             <dependency>
