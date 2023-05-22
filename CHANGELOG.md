@@ -1,3 +1,17 @@
+# [5.0.0](https://github.com/gravitee-io/gravitee-bom/compare/4.0.3...5.0.0) (2023-05-22)
+
+
+### Features
+
+* upgrade to spring6 ([7120da2](https://github.com/gravitee-io/gravitee-bom/commit/7120da2cd634d5d4418c03ea3d5d839df22d5bca))
+
+
+### BREAKING CHANGES
+
+* requires support for spring6, jetty11 and jersey3
+
+https://gravitee.atlassian.net/browse/ARCHI-216
+
 ## [4.0.3](https://github.com/gravitee-io/gravitee-bom/compare/4.0.2...4.0.3) (2023-04-26)
 
 
