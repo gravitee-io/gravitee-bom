@@ -1,3 +1,10 @@
+## [6.0.1](https://github.com/gravitee-io/gravitee-bom/compare/6.0.0...6.0.1) (2023-07-07)
+
+
+### Bug Fixes
+
+* get the latest versions of jackson and netty ([65b09a3](https://github.com/gravitee-io/gravitee-bom/commit/65b09a30b01ca56e1b54780909be8985ca81c835))
+
 # [6.0.0](https://github.com/gravitee-io/gravitee-bom/compare/5.0.0...6.0.0) (2023-07-07)
 
 
