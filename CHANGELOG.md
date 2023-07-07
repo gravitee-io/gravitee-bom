@@ -1,3 +1,19 @@
+# [6.0.0](https://github.com/gravitee-io/gravitee-bom/compare/5.0.0...6.0.0) (2023-07-07)
+
+
+### chore
+
+* bump dependencies ([e5d3e8b](https://github.com/gravitee-io/gravitee-bom/commit/e5d3e8b50d88f9d8e4046b8156b0f8fe6f815438))
+* bump gravitee-parent ([e6e35fe](https://github.com/gravitee-io/gravitee-bom/commit/e6e35fe6e33587650988ed318f0a3090212d1573))
+* remove rxjava2 dependency ([933baf3](https://github.com/gravitee-io/gravitee-bom/commit/933baf386e1401f67781e53820227b37bb79ae0b))
+
+
+### BREAKING CHANGES
+
+* Use latest major version of gravitee-parent which comes with breaking changes too
+* Remove RxJava2 since RxJava3 has been generalized
+* Vert.X and Logback have been updated to new minor versions
+
 # [5.0.0](https://github.com/gravitee-io/gravitee-bom/compare/4.0.3...5.0.0) (2023-05-22)
 
 
