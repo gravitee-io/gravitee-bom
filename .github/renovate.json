@@ -9,7 +9,6 @@
     },
     {
       "matchDatasources": ["orb"],
-      "matchUpdateTypes": ["patch", "minor"],
       "automerge": true,
       "automergeType": "branch",
       "semanticCommitType": "ci"
