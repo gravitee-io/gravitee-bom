@@ -72,7 +72,6 @@
         <mockito-inline.version>5.2.0</mockito-inline.version>
         <netty.version>4.1.89.Final</netty.version>
         <reactive-streams.version>1.0.4</reactive-streams.version>
-        <rxjava2.version>2.2.21</rxjava2.version>
         <rxjava3.version>3.1.6</rxjava3.version>
         <slf4j.version>2.0.7</slf4j.version>
         <spring.version>6.0.10</spring.version>
@@ -218,11 +217,6 @@
                 <artifactId>logback-json-core</artifactId>
                 <version>${logback-json.version}</version>
                 <scope>provided</scope>
-            </dependency>
-            <dependency>
-                <groupId>io.reactivex.rxjava2</groupId>
-                <artifactId>rxjava</artifactId>
-                <version>${rxjava2.version}</version>
             </dependency>
             <dependency>
                 <groupId>io.reactivex.rxjava3</groupId>
