@@ -70,7 +70,7 @@
         <logback-json.version>0.1.5</logback-json.version>
         <mockito.version>5.4.0</mockito.version>
         <mockito-inline.version>5.2.0</mockito-inline.version>
-        <netty.version>4.1.89.Final</netty.version>
+        <netty.version>4.1.94.Final</netty.version>
         <reactive-streams.version>1.0.4</reactive-streams.version>
         <rxjava3.version>3.1.6</rxjava3.version>
         <slf4j.version>2.0.7</slf4j.version>
