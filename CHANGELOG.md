@@ -1,3 +1,10 @@
+## [6.0.4](https://github.com/gravitee-io/gravitee-bom/compare/6.0.3...6.0.4) (2023-07-23)
+
+
+### Bug Fixes
+
+* **deps:** update junit5 monorepo to v5.10.0 ([830c5d4](https://github.com/gravitee-io/gravitee-bom/commit/830c5d449260d0f027c47d7de2badee6705ff1d2))
+
 ## [6.0.3](https://github.com/gravitee-io/gravitee-bom/compare/6.0.2...6.0.3) (2023-07-18)
 
 
