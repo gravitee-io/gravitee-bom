@@ -1,3 +1,10 @@
+## [6.0.7](https://github.com/gravitee-io/gravitee-bom/compare/6.0.6...6.0.7) (2023-10-12)
+
+
+### Bug Fixes
+
+* **deps:** update vert.x and related dependencies ([bc7e65b](https://github.com/gravitee-io/gravitee-bom/commit/bc7e65be5a510a483bb06b16d9a29db54a4ae867))
+
 ## [6.0.6](https://github.com/gravitee-io/gravitee-bom/compare/6.0.5...6.0.6) (2023-09-08)
 
 
