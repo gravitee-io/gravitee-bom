@@ -1,3 +1,11 @@
+## [6.0.13](https://github.com/gravitee-io/gravitee-bom/compare/6.0.12...6.0.13) (2023-10-12)
+
+
+### Bug Fixes
+
+* **deps:** update dependency org.glassfish.jersey:jersey-bom to v3.1.3 ([7f3a4e7](https://github.com/gravitee-io/gravitee-bom/commit/7f3a4e767993bad629efd5c875f38c2178bf8e04))
+* **deps:** update slf4j.version to v2.0.9 ([1a418c2](https://github.com/gravitee-io/gravitee-bom/commit/1a418c25e8e5aa0421ebb1e51ddd463a78e17c1d))
+
 ## [6.0.12](https://github.com/gravitee-io/gravitee-bom/compare/6.0.11...6.0.12) (2023-10-12)
 
 
