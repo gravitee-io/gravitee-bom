@@ -1,3 +1,11 @@
+## [6.0.8](https://github.com/gravitee-io/gravitee-bom/compare/6.0.7...6.0.8) (2023-10-12)
+
+
+### Bug Fixes
+
+* **deps:** update dependency io.gravitee:gravitee-parent to v22.0.9 ([779b34f](https://github.com/gravitee-io/gravitee-bom/commit/779b34f7d2e40c274dad9543a993c8cd0fe6b501))
+* **deps:** update dependency org.eclipse.jetty:jetty-bom to v11.0.17 ([b1e9408](https://github.com/gravitee-io/gravitee-bom/commit/b1e94081c20f1e18c99e93f5d03b7f978818a235))
+
 ## [6.0.7](https://github.com/gravitee-io/gravitee-bom/compare/6.0.6...6.0.7) (2023-10-12)
 
 
