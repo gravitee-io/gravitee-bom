@@ -1,3 +1,10 @@
+## [6.0.15](https://github.com/gravitee-io/gravitee-bom/compare/6.0.14...6.0.15) (2023-10-13)
+
+
+### Bug Fixes
+
+* **deps:** update dependency com.fasterxml.jackson:jackson-bom to v2.15.3 ([39f0bee](https://github.com/gravitee-io/gravitee-bom/commit/39f0bee5f3abbc6233078e7da397c3d1c6d259ba))
+
 ## [6.0.14](https://github.com/gravitee-io/gravitee-bom/compare/6.0.13...6.0.14) (2023-10-12)
 
 
