@@ -1,3 +1,12 @@
+## [6.0.20](https://github.com/gravitee-io/gravitee-bom/compare/6.0.19...6.0.20) (2023-11-22)
+
+
+### Bug Fixes
+
+* **deps:** update dependency org.eclipse.jetty:jetty-bom to v11.0.18 ([d5814b0](https://github.com/gravitee-io/gravitee-bom/commit/d5814b0ee1c682fa75e647244d2d84b503ff9b44))
+* **deps:** update junit5 monorepo to v5.10.1 ([4068f32](https://github.com/gravitee-io/gravitee-bom/commit/4068f325f300121a071e2a3d7996e434e011d925))
+* **deps:** update mockito monorepo to v5.7.0 ([ed15469](https://github.com/gravitee-io/gravitee-bom/commit/ed15469b8cac6160f1579365c93dc8257427a122))
+
 ## [6.0.19](https://github.com/gravitee-io/gravitee-bom/compare/6.0.18...6.0.19) (2023-11-22)
 
 
