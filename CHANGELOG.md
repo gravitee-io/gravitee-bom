@@ -1,3 +1,12 @@
+## [3.0.17](https://github.com/gravitee-io/gravitee-bom/compare/3.0.16...3.0.17) (2023-11-22)
+
+
+### Bug Fixes
+
+* **deps:** update dependency io.gravitee:gravitee-parent to v21.0.1 ([e2eaa5f](https://github.com/gravitee-io/gravitee-bom/commit/e2eaa5fb6d0cfba36008338c97cbac4e01bcf4cb))
+* **deps:** update dependency org.eclipse.jetty:jetty-bom to v9.4.53.v20231009 ([b736567](https://github.com/gravitee-io/gravitee-bom/commit/b736567c4537e342a4f0dd7189c387ec827674b9))
+* **deps:** update junit5 monorepo to v5.10.1 ([54cb3c1](https://github.com/gravitee-io/gravitee-bom/commit/54cb3c1f037e3c2c033fa217c12a61324ba46069))
+
 ## [3.0.16](https://github.com/gravitee-io/gravitee-bom/compare/3.0.15...3.0.16) (2023-11-22)
 
 
