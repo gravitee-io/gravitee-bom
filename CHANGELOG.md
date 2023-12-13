@@ -1,3 +1,11 @@
+## [6.0.22](https://github.com/gravitee-io/gravitee-bom/compare/6.0.21...6.0.22) (2023-12-13)
+
+
+### Bug Fixes
+
+* **deps:** update dependency io.gravitee:gravitee-parent to v22.0.14 ([59d20ce](https://github.com/gravitee-io/gravitee-bom/commit/59d20ce35189382d3cb96203f20456a8b6f16b8e))
+* **deps:** update mockito monorepo to v5.8.0 ([e855eb3](https://github.com/gravitee-io/gravitee-bom/commit/e855eb321994465056753975be51251da081df33))
+
 ## [6.0.21](https://github.com/gravitee-io/gravitee-bom/compare/6.0.20...6.0.21) (2023-12-13)
 
 
