@@ -18,7 +18,8 @@
         "org.projectlombok:*",
         "io.reactivex.rxjava2:*",
         "io.reactivex.rxjava3:*",
-        "org.reactivestreams:*"
+        "org.reactivestreams:*",
+        "io.gravitee:gravitee-parent"
       ],
       "matchUpdateTypes": ["patch", "minor"],
       "automerge": true,
