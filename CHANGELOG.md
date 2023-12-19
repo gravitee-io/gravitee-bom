@@ -1,3 +1,10 @@
+## [3.0.19](https://github.com/gravitee-io/gravitee-bom/compare/3.0.18...3.0.19) (2023-12-19)
+
+
+### Bug Fixes
+
+* downgrade logback to `1.2.13` to avoid breaking changes with upper versions ([05b567e](https://github.com/gravitee-io/gravitee-bom/commit/05b567e67d12eb946b96591bdd3c88068ad380ee))
+
 ## [3.0.18](https://github.com/gravitee-io/gravitee-bom/compare/3.0.17...3.0.18) (2023-12-13)
 
 
