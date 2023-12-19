@@ -19,8 +19,7 @@
         "io.reactivex.rxjava2:*",
         "io.reactivex.rxjava3:*",
         "org.reactivestreams:*",
-        "io.gravitee:gravitee-parent",
-        "ch.qos.logback:*"
+        "io.gravitee:gravitee-parent"
       ],
       "matchUpdateTypes": ["patch", "minor"],
       "automerge": true,
@@ -32,7 +31,8 @@
         "org.springframework:spring-framework-bom",
         "org.springframework.security:spring-security-bom",
         "org.slf4j:*",
-        "com.fasterxml.jackson:*"
+        "com.fasterxml.jackson:*",
+        "ch.qos.logback:*"
       ],
       "matchUpdateTypes": ["patch"],
       "automerge": true,
