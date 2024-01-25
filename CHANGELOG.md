@@ -1,3 +1,15 @@
+# [7.0.0](https://github.com/gravitee-io/gravitee-bom/compare/6.0.24...7.0.0) (2024-01-25)
+
+
+### Features
+
+* upgrade all deps to latest version ([21ed5d6](https://github.com/gravitee-io/gravitee-bom/commit/21ed5d620cf90c3ec79b1bfacd866a90ebfc2629))
+
+
+### BREAKING CHANGES
+
+* upgrade to Jetty 12
+
 ## [6.0.24](https://github.com/gravitee-io/gravitee-bom/compare/6.0.23...6.0.24) (2023-12-21)
 
 
