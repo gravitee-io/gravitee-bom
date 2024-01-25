@@ -1,3 +1,10 @@
+## [7.0.4](https://github.com/gravitee-io/gravitee-bom/compare/7.0.3...7.0.4) (2024-01-25)
+
+
+### Bug Fixes
+
+* update Spring due to CVE-2024-22233 ([59ec7ca](https://github.com/gravitee-io/gravitee-bom/commit/59ec7ca52749022ed4a4e6e2da09fc376360dc85))
+
 ## [7.0.3](https://github.com/gravitee-io/gravitee-bom/compare/7.0.2...7.0.3) (2024-01-25)
 
 
