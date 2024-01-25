@@ -74,7 +74,7 @@
         <reactive-streams.version>1.0.4</reactive-streams.version>
         <rxjava3.version>3.1.8</rxjava3.version>
         <slf4j.version>2.0.10</slf4j.version>
-        <spring.version>6.1.2</spring.version>
+        <spring.version>6.1.3</spring.version>
         <spring-security.version>6.2.1</spring-security.version>
         <vertx.version>4.5.1</vertx.version>
         <lombok.version>1.18.30</lombok.version>
