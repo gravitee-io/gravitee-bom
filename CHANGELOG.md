@@ -1,3 +1,11 @@
+## [7.0.1](https://github.com/gravitee-io/gravitee-bom/compare/7.0.0...7.0.1) (2024-01-25)
+
+
+### Bug Fixes
+
+* **deps:** update dependency io.gravitee:gravitee-parent to v22.0.19 ([ef316e2](https://github.com/gravitee-io/gravitee-bom/commit/ef316e2b914522d6b05630953559c183b51e561e))
+* **deps:** update dependency org.assertj:assertj-core to v3.25.2 ([fdda009](https://github.com/gravitee-io/gravitee-bom/commit/fdda0091d6671b42204240e3b2d56799e277b900))
+
 # [7.0.0](https://github.com/gravitee-io/gravitee-bom/compare/6.0.24...7.0.0) (2024-01-25)
 
 
