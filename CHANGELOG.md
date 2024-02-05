@@ -1,3 +1,10 @@
+## [3.0.22](https://github.com/gravitee-io/gravitee-bom/compare/3.0.21...3.0.22) (2024-02-05)
+
+
+### Bug Fixes
+
+* **deps:** update dependency org.assertj:assertj-core to v3.25.3 ([cddb4a6](https://github.com/gravitee-io/gravitee-bom/commit/cddb4a65243db38e6cf6ebcd4ba23ae1b0f9a13c))
+
 ## [3.0.21](https://github.com/gravitee-io/gravitee-bom/compare/3.0.20...3.0.21) (2024-02-04)
 
 
