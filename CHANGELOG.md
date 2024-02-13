@@ -1,3 +1,10 @@
+## [7.0.8](https://github.com/gravitee-io/gravitee-bom/compare/7.0.7...7.0.8) (2024-02-13)
+
+
+### Bug Fixes
+
+* **deps:** update jetty.version to v12.0.6 ([dda76b9](https://github.com/gravitee-io/gravitee-bom/commit/dda76b9ba3faf554531411701ae49e7abcb7c31b))
+
 ## [7.0.7](https://github.com/gravitee-io/gravitee-bom/compare/7.0.6...7.0.7) (2024-02-06)
 
 
