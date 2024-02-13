@@ -70,14 +70,14 @@
         <logback.version>1.2.13</logback.version>
         <logback-json.version>0.1.5</logback-json.version>
         <mockito.version>3.12.4</mockito.version>
-        <netty.version>4.1.74.Final</netty.version>
+        <netty.version>4.1.107.Final</netty.version>
         <reactive-streams.version>1.0.4</reactive-streams.version>
         <rxjava2.version>2.2.21</rxjava2.version>
         <rxjava3.version>3.1.8</rxjava3.version>
         <slf4j.version>1.7.36</slf4j.version>
         <spring.version>5.3.31</spring.version>
         <spring-security.version>5.5.7</spring-security.version>
-        <vertx.version>4.2.7</vertx.version>
+        <vertx.version>4.5.3</vertx.version>
         <lombok.version>1.18.30</lombok.version>
     </properties>
 
