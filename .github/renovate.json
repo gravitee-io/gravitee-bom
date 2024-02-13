@@ -1,7 +1,7 @@
 {
   "extends": ["config:base"],
   "rebaseWhen": "conflicted",
-  "baseBranches": ["master", "3.x", "6.x"],
+  "baseBranches": ["master", "6.x"],
   "packageRules": [
     {
       "groupName": "Vert.x and related dependencies",
