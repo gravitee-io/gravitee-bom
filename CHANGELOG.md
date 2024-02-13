@@ -1,3 +1,10 @@
+## [6.0.25](https://github.com/gravitee-io/gravitee-bom/compare/6.0.24...6.0.25) (2024-02-13)
+
+
+### Bug Fixes
+
+* **deps:** update dependency org.eclipse.jetty:jetty-bom to v11.0.20 ([494dc95](https://github.com/gravitee-io/gravitee-bom/commit/494dc9565e714302c009bb3359091da91edacb42))
+
 ## [6.0.24](https://github.com/gravitee-io/gravitee-bom/compare/6.0.23...6.0.24) (2023-12-21)
 
 
