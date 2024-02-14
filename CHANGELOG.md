@@ -1,3 +1,11 @@
+## [7.0.9](https://github.com/gravitee-io/gravitee-bom/compare/7.0.8...7.0.9) (2024-02-14)
+
+
+### Bug Fixes
+
+* **deps:** netty 4.1.106.Final ([6eb7b28](https://github.com/gravitee-io/gravitee-bom/commit/6eb7b284d47c372607cb6befb93adaff8a9b4275))
+* **deps:** update vert.x and related dependencies ([b9f64ea](https://github.com/gravitee-io/gravitee-bom/commit/b9f64eaa50df62838488628462c94b5442dc821c))
+
 ## [7.0.8](https://github.com/gravitee-io/gravitee-bom/compare/7.0.7...7.0.8) (2024-02-13)
 
 
