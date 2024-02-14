@@ -57,6 +57,44 @@
       "matchUpdateTypes": ["major"],
       "matchBaseBranches": ["3.x"],
       "enabled": false
+    },
+    {
+      "matchBaseBranches": ["6.x"],
+      "matchPackagePatterns": ["org.springframework:spring-framework-bom"],
+      "matchUpdateTypes": ["patch"],
+      "allowedVersions": "<=6.0",
+      "automerge": false,
+      "automergeType": "branch",
+      "semanticCommitType": "fix"
+    },
+    {
+      "matchBaseBranches": ["6.x"],
+      "matchPackagePatterns": [
+        "org.springframework.security:spring-security-bom"
+      ],
+      "matchUpdateTypes": ["patch"],
+      "allowedVersions": "<=6.1",
+      "automerge": false,
+      "automergeType": "branch",
+      "semanticCommitType": "fix"
+    },
+    {
+      "matchBaseBranches": ["6.x"],
+      "matchPackagePatterns": ["io.vertx:vertx-*"],
+      "matchUpdateTypes": ["patch"],
+      "allowedVersions": "<=4.4",
+      "automerge": false,
+      "automergeType": "branch",
+      "semanticCommitType": "fix"
+    },
+    {
+      "matchBaseBranches": ["6.x"],
+      "groupName": "Vert.x and related dependencies",
+      "matchPackagePatterns": ["io.vertx:vertx-*", "io.netty:*"],
+      "matchUpdateTypes": ["patch"],
+      "automerge": false,
+      "automergeType": "branch",
+      "semanticCommitType": "fix"
     }
   ]
 }
