@@ -1,3 +1,11 @@
+## [6.0.32](https://github.com/gravitee-io/gravitee-bom/compare/6.0.31...6.0.32) (2024-02-14)
+
+
+### Bug Fixes
+
+* upgrade spring to 6.0.16 ([ec2eef0](https://github.com/gravitee-io/gravitee-bom/commit/ec2eef06e59295ed0d8626c33f381511cc633eea))
+* upgrade vertx to 4.4.8 ([8c9b3f9](https://github.com/gravitee-io/gravitee-bom/commit/8c9b3f9f2c424d293707bb6ee17e2a44c34c39de))
+
 ## [6.0.31](https://github.com/gravitee-io/gravitee-bom/compare/6.0.30...6.0.31) (2024-02-14)
 
 
