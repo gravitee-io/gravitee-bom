@@ -61,7 +61,6 @@
     {
       "matchBaseBranches": ["6.x"],
       "matchPackagePatterns": ["org.springframework:spring-framework-bom"],
-      "matchUpdateTypes": ["patch"],
       "allowedVersions": "<=6.0",
       "automerge": false,
       "automergeType": "branch",
@@ -72,7 +71,6 @@
       "matchPackagePatterns": [
         "org.springframework.security:spring-security-bom"
       ],
-      "matchUpdateTypes": ["patch"],
       "allowedVersions": "<=6.1",
       "automerge": false,
       "automergeType": "branch",
@@ -81,7 +79,6 @@
     {
       "matchBaseBranches": ["6.x"],
       "matchPackagePatterns": ["io.vertx:vertx-*"],
-      "matchUpdateTypes": ["patch"],
       "allowedVersions": "<=4.4",
       "automerge": false,
       "automergeType": "branch",
