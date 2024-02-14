@@ -1,3 +1,11 @@
+## [6.0.29](https://github.com/gravitee-io/gravitee-bom/compare/6.0.28...6.0.29) (2024-02-14)
+
+
+### Bug Fixes
+
+* **deps:** update dependency org.assertj:assertj-core to v3.25.3 ([0b3d030](https://github.com/gravitee-io/gravitee-bom/commit/0b3d0305c543aba4488ff7c040a513f32a5ae749))
+* **deps:** update slf4j monorepo to v2.0.12 ([01094d0](https://github.com/gravitee-io/gravitee-bom/commit/01094d0bbbcef326f82e869acb4db15929e4a1aa))
+
 ## [6.0.28](https://github.com/gravitee-io/gravitee-bom/compare/6.0.27...6.0.28) (2024-02-14)
 
 
