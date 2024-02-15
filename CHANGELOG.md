@@ -1,3 +1,10 @@
+## [3.0.24](https://github.com/gravitee-io/gravitee-bom/compare/3.0.23...3.0.24) (2024-02-15)
+
+
+### Bug Fixes
+
+* **deps:** update dependency org.springframework.security:spring-security-bom to v5.5.8 ([9e30325](https://github.com/gravitee-io/gravitee-bom/commit/9e303250ca2e32fd5a39863e10a3ce0d9fdd68c2))
+
 ## [3.0.23](https://github.com/gravitee-io/gravitee-bom/compare/3.0.22...3.0.23) (2024-02-15)
 
 
