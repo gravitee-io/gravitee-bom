@@ -1,3 +1,10 @@
+## [3.0.23](https://github.com/gravitee-io/gravitee-bom/compare/3.0.22...3.0.23) (2024-02-15)
+
+
+### Bug Fixes
+
+* **deps:** update dependency org.eclipse.jetty:jetty-bom to v9.4.54.v20240208 ([bc03aeb](https://github.com/gravitee-io/gravitee-bom/commit/bc03aeb4d1785e5d9e5767e576841ed94120a056))
+
 ## [3.0.22](https://github.com/gravitee-io/gravitee-bom/compare/3.0.21...3.0.22) (2024-02-05)
 
 
