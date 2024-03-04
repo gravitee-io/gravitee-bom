@@ -1,3 +1,10 @@
+## [7.0.11](https://github.com/gravitee-io/gravitee-bom/compare/7.0.10...7.0.11) (2024-03-04)
+
+
+### Bug Fixes
+
+* **deps:** update dependency org.springframework.security:spring-security-bom to v6.2.2 ([a60bf2c](https://github.com/gravitee-io/gravitee-bom/commit/a60bf2cb9a42fd644b847fd54926bcb4362c086a))
+
 ## [7.0.10](https://github.com/gravitee-io/gravitee-bom/compare/7.0.9...7.0.10) (2024-02-15)
 
 
