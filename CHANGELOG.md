@@ -1,3 +1,10 @@
+## [6.0.34](https://github.com/gravitee-io/gravitee-bom/compare/6.0.33...6.0.34) (2024-03-18)
+
+
+### Bug Fixes
+
+* **deps:** update dependency org.springframework:spring-framework-bom to v6.0.18 ([1ab3113](https://github.com/gravitee-io/gravitee-bom/commit/1ab3113f2260f9187fa0b5796deef63e006a4dca))
+
 ## [6.0.33](https://github.com/gravitee-io/gravitee-bom/compare/6.0.32...6.0.33) (2024-03-04)
 
 
