@@ -1,3 +1,10 @@
+## [6.0.39](https://github.com/gravitee-io/gravitee-bom/compare/6.0.38...6.0.39) (2024-04-04)
+
+
+### Bug Fixes
+
+* **deps:** update dependency org.projectlombok:lombok to v1.18.32 ([93db779](https://github.com/gravitee-io/gravitee-bom/commit/93db7796edcdc00be0f589133c39b13dc05dcdc6))
+
 ## [6.0.38](https://github.com/gravitee-io/gravitee-bom/compare/6.0.37...6.0.38) (2024-04-04)
 
 
