@@ -1,3 +1,12 @@
+## [7.0.15](https://github.com/gravitee-io/gravitee-bom/compare/7.0.14...7.0.15) (2024-04-04)
+
+
+### Bug Fixes
+
+* **deps:** update dependency com.fasterxml.jackson:jackson-bom to v2.17.0 ([9a68ae5](https://github.com/gravitee-io/gravitee-bom/commit/9a68ae58cc4715005a2a38e9e15b4dbc64328b69))
+* **deps:** update dependency io.gravitee:gravitee-parent to v22.0.23 ([ec850ac](https://github.com/gravitee-io/gravitee-bom/commit/ec850ac2a6b56c0c7dc9fc0c92c2ff1a2302027e))
+* **deps:** update jetty.version to v12.0.8 ([5356f4f](https://github.com/gravitee-io/gravitee-bom/commit/5356f4f0ca350c5935137679d10d67788bc13d8d))
+
 ## [7.0.14](https://github.com/gravitee-io/gravitee-bom/compare/7.0.13...7.0.14) (2024-03-18)
 
 
