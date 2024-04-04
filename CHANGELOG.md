@@ -1,3 +1,10 @@
+## [3.0.25](https://github.com/gravitee-io/gravitee-bom/compare/3.0.24...3.0.25) (2024-04-04)
+
+
+### Bug Fixes
+
+* **deps:** update dependency org.springframework:spring-framework-bom to v5.3.33 ([3f278d6](https://github.com/gravitee-io/gravitee-bom/commit/3f278d6658cb2d86c7aba33064b5b00ecc564650))
+
 ## [3.0.24](https://github.com/gravitee-io/gravitee-bom/compare/3.0.23...3.0.24) (2024-02-15)
 
 
