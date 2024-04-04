@@ -1,3 +1,10 @@
+## [6.0.36](https://github.com/gravitee-io/gravitee-bom/compare/6.0.35...6.0.36) (2024-04-04)
+
+
+### Bug Fixes
+
+* **deps:** update dependency io.gravitee:gravitee-parent to v22.0.23 ([005751d](https://github.com/gravitee-io/gravitee-bom/commit/005751d3578d1c1c90b57aa3f66396916d877827))
+
 ## [6.0.35](https://github.com/gravitee-io/gravitee-bom/compare/6.0.34...6.0.35) (2024-03-18)
 
 
