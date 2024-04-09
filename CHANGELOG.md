@@ -1,3 +1,10 @@
+## [7.0.20](https://github.com/gravitee-io/gravitee-bom/compare/7.0.19...7.0.20) (2024-04-09)
+
+
+### Bug Fixes
+
+* **deps:** update logback.version to v1.5.4 ([739ec45](https://github.com/gravitee-io/gravitee-bom/commit/739ec45e9ae6dcb026c4847f11ac3d9bcf52c53e))
+
 ## [7.0.19](https://github.com/gravitee-io/gravitee-bom/compare/7.0.18...7.0.19) (2024-04-05)
 
 
