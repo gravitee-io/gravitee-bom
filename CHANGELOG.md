@@ -1,3 +1,11 @@
+## [7.0.21](https://github.com/gravitee-io/gravitee-bom/compare/7.0.20...7.0.21) (2024-04-11)
+
+
+### Bug Fixes
+
+* **deps:** update dependency io.gravitee:gravitee-parent to v22.0.25 ([a3f68e3](https://github.com/gravitee-io/gravitee-bom/commit/a3f68e340aa1d1088334702af6f73d8e40327d57))
+* **deps:** update dependency org.springframework:spring-framework-bom to v6.1.6 ([74bc9df](https://github.com/gravitee-io/gravitee-bom/commit/74bc9dfe544a21079c751d353eb14bf8e40ca1aa))
+
 ## [7.0.20](https://github.com/gravitee-io/gravitee-bom/compare/7.0.19...7.0.20) (2024-04-09)
 
 
