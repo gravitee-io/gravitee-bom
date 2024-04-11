@@ -75,7 +75,7 @@
         <rxjava2.version>2.2.21</rxjava2.version>
         <rxjava3.version>3.1.8</rxjava3.version>
         <slf4j.version>1.7.36</slf4j.version>
-        <spring.version>5.3.33</spring.version>
+        <spring.version>5.3.34</spring.version>
         <spring-security.version>5.5.8</spring-security.version>
         <vertx.version>4.2.7</vertx.version>
         <lombok.version>1.18.32</lombok.version>
