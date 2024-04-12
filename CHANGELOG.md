@@ -1,3 +1,10 @@
+## [6.0.43](https://github.com/gravitee-io/gravitee-bom/compare/6.0.42...6.0.43) (2024-04-12)
+
+
+### Bug Fixes
+
+* **deps:** update slf4j monorepo to v2.0.13 ([c7fb47d](https://github.com/gravitee-io/gravitee-bom/commit/c7fb47dee81aff4861962694f13aa9e797357750))
+
 ## [6.0.42](https://github.com/gravitee-io/gravitee-bom/compare/6.0.41...6.0.42) (2024-04-11)
 
 
