@@ -1,3 +1,15 @@
+# [8.0.0](https://github.com/gravitee-io/gravitee-bom/compare/7.0.23...8.0.0) (2024-04-19)
+
+
+### Features
+
+* upgrade dependencies and add bouncycastle in bom ([f03df38](https://github.com/gravitee-io/gravitee-bom/commit/f03df389946d375670abf2695c45bda2d0fa14c4))
+
+
+### BREAKING CHANGES
+
+* upgrade vertx to 4.5.7
+
 ## [7.0.23](https://github.com/gravitee-io/gravitee-bom/compare/7.0.22...7.0.23) (2024-04-12)
 
 
