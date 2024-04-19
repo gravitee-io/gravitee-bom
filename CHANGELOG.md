@@ -1,3 +1,10 @@
+## [8.0.2](https://github.com/gravitee-io/gravitee-bom/compare/8.0.1...8.0.2) (2024-04-19)
+
+
+### Bug Fixes
+
+* **deps:** update logback.version to v1.5.6 ([a0fed1c](https://github.com/gravitee-io/gravitee-bom/commit/a0fed1c7d40c2e0a2f565d78b94c65560db13a13))
+
 ## [8.0.1](https://github.com/gravitee-io/gravitee-bom/compare/8.0.0...8.0.1) (2024-04-19)
 
 
