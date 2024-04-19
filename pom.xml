@@ -62,7 +62,7 @@
     <properties>
         <assertj-core.version>3.25.3</assertj-core.version>
         <jackson.version>2.17.0</jackson.version>
-        <jersey.version>3.1.5</jersey.version>
+        <jersey.version>3.1.6</jersey.version>
         <jetty.version>12.0.8</jetty.version>
         <junit.version>4.13.2</junit.version>
         <junit-jupiter.version>5.10.2</junit-jupiter.version>
@@ -70,14 +70,15 @@
         <logback-json.version>0.1.5</logback-json.version>
         <mockito.version>5.11.0</mockito.version>
         <mockito-inline.version>5.2.0</mockito-inline.version>
-        <netty.version>4.1.106.Final</netty.version>
+        <netty.version>4.1.108.Final</netty.version>
         <reactive-streams.version>1.0.4</reactive-streams.version>
         <rxjava3.version>3.1.8</rxjava3.version>
         <slf4j.version>2.0.13</slf4j.version>
         <spring.version>6.1.6</spring.version>
         <spring-security.version>6.2.3</spring-security.version>
-        <vertx.version>4.5.3</vertx.version>
+        <vertx.version>4.5.7</vertx.version>
         <lombok.version>1.18.32</lombok.version>
+        <bouncycastle.version>1.78</bouncycastle.version>
     </properties>
 
     <dependencyManagement>
@@ -233,6 +234,16 @@
                 <groupId>org.reactivestreams</groupId>
                 <artifactId>reactive-streams</artifactId>
                 <version>${reactive-streams.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.bouncycastle</groupId>
+                <artifactId>bcpkix-jdk18on</artifactId>
+                <version>${bouncycastle.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.bouncycastle</groupId>
+                <artifactId>bcprov-jdk18on</artifactId>
+                <version>${bouncycastle.version}</version>
             </dependency>
 
             <!-- scope Test -->
