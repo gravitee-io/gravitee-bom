@@ -78,7 +78,7 @@
         <spring-security.version>6.2.4</spring-security.version>
         <vertx.version>4.5.7</vertx.version>
         <lombok.version>1.18.32</lombok.version>
-        <bouncycastle.version>1.78</bouncycastle.version>
+        <bouncycastle.version>1.78.1</bouncycastle.version>
         <opentelemetry.version>1.39.0</opentelemetry.version>
     </properties>
 
