@@ -1,3 +1,10 @@
+# [8.1.0](https://github.com/gravitee-io/gravitee-bom/compare/8.0.4...8.1.0) (2024-06-17)
+
+
+### Features
+
+* add opentelemetry BOM ([71d42f8](https://github.com/gravitee-io/gravitee-bom/commit/71d42f82884f63db0e12a05b44f540add5d646f0))
+
 ## [8.0.4](https://github.com/gravitee-io/gravitee-bom/compare/8.0.3...8.0.4) (2024-05-05)
 
 
