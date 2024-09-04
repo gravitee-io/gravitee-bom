@@ -70,13 +70,13 @@
         <logback-json.version>0.1.5</logback-json.version>
         <mockito.version>5.11.0</mockito.version>
         <mockito-inline.version>5.2.0</mockito-inline.version>
-        <netty.version>4.1.108.Final</netty.version>
+        <netty.version>4.1.113.Final</netty.version>
         <reactive-streams.version>1.0.4</reactive-streams.version>
         <rxjava3.version>3.1.8</rxjava3.version>
         <slf4j.version>2.0.13</slf4j.version>
         <spring.version>6.1.6</spring.version>
         <spring-security.version>6.2.4</spring-security.version>
-        <vertx.version>4.5.7</vertx.version>
+        <vertx.version>4.5.10</vertx.version>
         <lombok.version>1.18.32</lombok.version>
         <bouncycastle.version>1.78</bouncycastle.version>
         <opentelemetry.version>1.39.0</opentelemetry.version>
