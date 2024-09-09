@@ -1,3 +1,11 @@
+## [8.1.2](https://github.com/gravitee-io/gravitee-bom/compare/8.1.1...8.1.2) (2024-09-09)
+
+
+### Bug Fixes
+
+* **deps:** update bouncycastle.version to v1.78.1 ([f0934b0](https://github.com/gravitee-io/gravitee-bom/commit/f0934b041199a68151e69196717c48fc571d4a30))
+* **deps:** update dependency com.fasterxml.jackson:jackson-bom to v2.17.2 ([e27210a](https://github.com/gravitee-io/gravitee-bom/commit/e27210a862fe761938ab613d05b17b53a25aa4e1))
+
 ## [8.1.1](https://github.com/gravitee-io/gravitee-bom/compare/8.1.0...8.1.1) (2024-09-09)
 
 
