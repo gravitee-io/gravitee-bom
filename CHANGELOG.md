@@ -1,3 +1,10 @@
+## [8.1.4](https://github.com/gravitee-io/gravitee-bom/compare/8.1.3...8.1.4) (2024-09-09)
+
+
+### Bug Fixes
+
+* **deps:** update dependency org.glassfish.jersey:jersey-bom to v3.1.8 ([1202ceb](https://github.com/gravitee-io/gravitee-bom/commit/1202ceb793d63f5cc231e287c52689eec0a30a57))
+
 ## [8.1.3](https://github.com/gravitee-io/gravitee-bom/compare/8.1.2...8.1.3) (2024-09-09)
 
 
