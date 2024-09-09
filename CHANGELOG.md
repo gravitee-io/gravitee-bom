@@ -1,3 +1,10 @@
+## [8.1.5](https://github.com/gravitee-io/gravitee-bom/compare/8.1.4...8.1.5) (2024-09-09)
+
+
+### Bug Fixes
+
+* **deps:** update dependency io.reactivex.rxjava3:rxjava to v3.1.9 ([88b2176](https://github.com/gravitee-io/gravitee-bom/commit/88b2176cd138a1cc78d3e5f4193c8a48ca6b10b8))
+
 ## [8.1.4](https://github.com/gravitee-io/gravitee-bom/compare/8.1.3...8.1.4) (2024-09-09)
 
 
