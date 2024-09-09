@@ -1,3 +1,11 @@
+## [8.1.8](https://github.com/gravitee-io/gravitee-bom/compare/8.1.7...8.1.8) (2024-09-09)
+
+
+### Bug Fixes
+
+* **deps:** update logback.version to v1.5.8 ([a9d7772](https://github.com/gravitee-io/gravitee-bom/commit/a9d77724bdba49914a75a7d556138e006fcb34d9))
+* **deps:** update slf4j monorepo to v2.0.16 ([e12fc8a](https://github.com/gravitee-io/gravitee-bom/commit/e12fc8a8e3424fb5ae1bdbb8ecb095f56f2727cd))
+
 ## [8.1.7](https://github.com/gravitee-io/gravitee-bom/compare/8.1.6...8.1.7) (2024-09-09)
 
 
