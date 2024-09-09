@@ -1,3 +1,11 @@
+## [6.0.50](https://github.com/gravitee-io/gravitee-bom/compare/6.0.49...6.0.50) (2024-09-09)
+
+
+### Bug Fixes
+
+* **deps:** update dependency org.glassfish.jersey:jersey-bom to v3.1.8 ([494db12](https://github.com/gravitee-io/gravitee-bom/commit/494db12c1739dd9af9c5fc3a4153cf73ff82d99e))
+* **deps:** update vert.x and related dependencies ([bfe5ddb](https://github.com/gravitee-io/gravitee-bom/commit/bfe5ddb1f2c6c9c84fae0e75bc1e4ba67e156c25))
+
 ## [6.0.49](https://github.com/gravitee-io/gravitee-bom/compare/6.0.48...6.0.49) (2024-09-09)
 
 
