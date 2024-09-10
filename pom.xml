@@ -68,7 +68,7 @@
         <junit-jupiter.version>5.10.2</junit-jupiter.version>
         <logback.version>1.5.8</logback.version>
         <logback-json.version>0.1.5</logback-json.version>
-        <mockito.version>5.11.0</mockito.version>
+        <mockito.version>5.13.0</mockito.version>
         <mockito-inline.version>5.2.0</mockito-inline.version>
         <netty.version>4.1.113.Final</netty.version>
         <reactive-streams.version>1.0.4</reactive-streams.version>
