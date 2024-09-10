@@ -1,3 +1,10 @@
+## [8.1.10](https://github.com/gravitee-io/gravitee-bom/compare/8.1.9...8.1.10) (2024-09-10)
+
+
+### Bug Fixes
+
+* **deps:** update dependency org.assertj:assertj-core to v3.26.3 ([37d8f69](https://github.com/gravitee-io/gravitee-bom/commit/37d8f69b14cff8f90d5acc9857445a7156ca3583))
+
 ## [8.1.9](https://github.com/gravitee-io/gravitee-bom/compare/8.1.8...8.1.9) (2024-09-09)
 
 
