@@ -1,3 +1,10 @@
+## [6.0.53](https://github.com/gravitee-io/gravitee-bom/compare/6.0.52...6.0.53) (2024-09-10)
+
+
+### Bug Fixes
+
+* **deps:** update logback.version to v1.5.8 ([6b55e2f](https://github.com/gravitee-io/gravitee-bom/commit/6b55e2f33d45be7a224589d37d97c3c5dbed70aa))
+
 ## [6.0.52](https://github.com/gravitee-io/gravitee-bom/compare/6.0.51...6.0.52) (2024-09-10)
 
 
