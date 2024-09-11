@@ -1,3 +1,10 @@
+## [6.0.57](https://github.com/gravitee-io/gravitee-bom/compare/6.0.56...6.0.57) (2024-09-11)
+
+
+### Bug Fixes
+
+* **deps:** update mockito monorepo to v5.13.0 ([6e55dc5](https://github.com/gravitee-io/gravitee-bom/commit/6e55dc5d8a97a48e60e597f8ba189db81d140e6a))
+
 ## [6.0.56](https://github.com/gravitee-io/gravitee-bom/compare/6.0.55...6.0.56) (2024-09-10)
 
 
