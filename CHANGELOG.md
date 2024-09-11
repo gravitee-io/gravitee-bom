@@ -1,3 +1,11 @@
+## [3.0.33](https://github.com/gravitee-io/gravitee-bom/compare/3.0.32...3.0.33) (2024-09-11)
+
+
+### Bug Fixes
+
+* **deps:** update dependency org.assertj:assertj-core to v3.26.3 ([be1f3f8](https://github.com/gravitee-io/gravitee-bom/commit/be1f3f86d97145ec797642821a223c7c5f22685d))
+* **deps:** update junit5 monorepo to v5.11.0 ([5d81ed1](https://github.com/gravitee-io/gravitee-bom/commit/5d81ed190ca9c741871ef8ac0edba1bfff9a5d62))
+
 ## [3.0.32](https://github.com/gravitee-io/gravitee-bom/compare/3.0.31...3.0.32) (2024-09-11)
 
 
