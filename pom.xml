@@ -60,7 +60,7 @@
     </organization>
 
     <properties>
-        <assertj-core.version>3.25.3</assertj-core.version>
+        <assertj-core.version>3.26.3</assertj-core.version>
         <jackson.version>2.17.2</jackson.version>
         <jersey.version>2.45</jersey.version>
         <jetty.version>9.4.54.v20240208</jetty.version>
