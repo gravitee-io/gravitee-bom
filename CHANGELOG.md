@@ -1,3 +1,10 @@
+## [8.1.13](https://github.com/gravitee-io/gravitee-bom/compare/8.1.12...8.1.13) (2024-09-13)
+
+
+### Bug Fixes
+
+* reorder boms to load the right JUnit version ([3558385](https://github.com/gravitee-io/gravitee-bom/commit/3558385bf9617f353df30c85d3de29dda3e0edce))
+
 ## [8.1.12](https://github.com/gravitee-io/gravitee-bom/compare/8.1.11...8.1.12) (2024-09-12)
 
 
