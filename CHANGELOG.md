@@ -1,3 +1,10 @@
+## [8.1.14](https://github.com/gravitee-io/gravitee-bom/compare/8.1.13...8.1.14) (2024-09-15)
+
+
+### Bug Fixes
+
+* **deps:** update dependency io.gravitee:gravitee-parent to v22.1.10 ([d2cdeb9](https://github.com/gravitee-io/gravitee-bom/commit/d2cdeb9c9ad34997dae663d247996dfc1793dd7b))
+
 ## [8.1.13](https://github.com/gravitee-io/gravitee-bom/compare/8.1.12...8.1.13) (2024-09-13)
 
 
