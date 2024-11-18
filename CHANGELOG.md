@@ -1,3 +1,11 @@
+## [6.0.61](https://github.com/gravitee-io/gravitee-bom/compare/6.0.60...6.0.61) (2024-11-18)
+
+
+### Bug Fixes
+
+* **deps:** update dependency org.eclipse.jetty:jetty-bom to v11.0.24 ([ee45f95](https://github.com/gravitee-io/gravitee-bom/commit/ee45f95c02605e043fc5f2d6e5de48bb590f9599))
+* **deps:** update dependency org.springframework:spring-framework-bom to v6.0.23 ([1017a4b](https://github.com/gravitee-io/gravitee-bom/commit/1017a4b175bc9a794efd3b904902ca0d48c81d04))
+
 ## [6.0.60](https://github.com/gravitee-io/gravitee-bom/compare/6.0.59...6.0.60) (2024-09-25)
 
 
