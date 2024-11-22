@@ -1,3 +1,10 @@
+## [8.1.19](https://github.com/gravitee-io/gravitee-bom/compare/8.1.18...8.1.19) (2024-11-22)
+
+
+### Bug Fixes
+
+* update vertx version to include websocket fixes ([c8ec979](https://github.com/gravitee-io/gravitee-bom/commit/c8ec9799c61a982dc0616b938485ff0892ec9d76))
+
 ## [8.1.18](https://github.com/gravitee-io/gravitee-bom/compare/8.1.17...8.1.18) (2024-11-18)
 
 
