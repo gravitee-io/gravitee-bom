@@ -1,3 +1,10 @@
+# [8.2.0](https://github.com/gravitee-io/gravitee-bom/compare/8.1.20...8.2.0) (2024-12-17)
+
+
+### Features
+
+* declare testcontainers version for all projects ([17a5629](https://github.com/gravitee-io/gravitee-bom/commit/17a5629d5fd5af90c3316e88375f4a7cb98f2397))
+
 ## [8.1.20](https://github.com/gravitee-io/gravitee-bom/compare/8.1.19...8.1.20) (2024-12-02)
 
 
