@@ -1,3 +1,11 @@
+## [8.2.3](https://github.com/gravitee-io/gravitee-bom/compare/8.2.2...8.2.3) (2025-01-21)
+
+
+### Bug Fixes
+
+* **deps:** update dependency com.fasterxml.jackson:jackson-bom to v2.18.2 ([9bb2cfd](https://github.com/gravitee-io/gravitee-bom/commit/9bb2cfd8d346e7b5b7e2e260a06b88ac9c1d6ba7))
+* **deps:** update logback monorepo to v1.5.16 ([7c3d4ff](https://github.com/gravitee-io/gravitee-bom/commit/7c3d4ff15e0a0fed16877c77445bd7a1a10a6181))
+
 ## [8.2.2](https://github.com/gravitee-io/gravitee-bom/compare/8.2.1...8.2.2) (2025-01-21)
 
 
