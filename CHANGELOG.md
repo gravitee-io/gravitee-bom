@@ -1,3 +1,11 @@
+## [8.2.1](https://github.com/gravitee-io/gravitee-bom/compare/8.2.0...8.2.1) (2025-01-21)
+
+
+### Bug Fixes
+
+* **deps:** update dependency io.netty:netty-bom to v4.1.117.final ([726f679](https://github.com/gravitee-io/gravitee-bom/commit/726f679be14170a1cf3ca367cd9b7d4af36c0353))
+* **deps:** update jetty monorepo to v12.0.16 ([cebe05e](https://github.com/gravitee-io/gravitee-bom/commit/cebe05e1c7cc4f123dbf2174ecdd8ea926b84495))
+
 # [8.2.0](https://github.com/gravitee-io/gravitee-bom/compare/8.1.20...8.2.0) (2024-12-17)
 
 
