@@ -1,3 +1,10 @@
+## [8.2.6](https://github.com/gravitee-io/gravitee-bom/compare/8.2.5...8.2.6) (2025-01-28)
+
+
+### Bug Fixes
+
+* **deps:** update bouncycastle.version to v1.80 ([580ccf4](https://github.com/gravitee-io/gravitee-bom/commit/580ccf444d8b362d68a2871f9629ae7087bc7e3e))
+
 ## [8.2.5](https://github.com/gravitee-io/gravitee-bom/compare/8.2.4...8.2.5) (2025-01-21)
 
 
