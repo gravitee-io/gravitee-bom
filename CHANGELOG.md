@@ -1,3 +1,10 @@
+## [8.2.9](https://github.com/gravitee-io/gravitee-bom/compare/8.2.8...8.2.9) (2025-02-13)
+
+
+### Bug Fixes
+
+* **deps:** update vert.x and related dependencies ([2ecf917](https://github.com/gravitee-io/gravitee-bom/commit/2ecf9179c5d0633cda0d0bf4f8e3e90a4d90914d))
+
 ## [8.2.8](https://github.com/gravitee-io/gravitee-bom/compare/8.2.7...8.2.8) (2025-01-28)
 
 
