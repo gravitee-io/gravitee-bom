@@ -1,3 +1,10 @@
+## [8.2.10](https://github.com/gravitee-io/gravitee-bom/compare/8.2.9...8.2.10) (2025-02-21)
+
+
+### Bug Fixes
+
+* override netty deps by using direct deps into pom ([536ba40](https://github.com/gravitee-io/gravitee-bom/commit/536ba403ba5917022a62ca4e7a31ef9695346ad3))
+
 ## [8.2.9](https://github.com/gravitee-io/gravitee-bom/compare/8.2.8...8.2.9) (2025-02-13)
 
 
