@@ -62,7 +62,7 @@
     </organization>
 
     <properties>
-        <assertj-core.version>3.26.3</assertj-core.version>
+        <assertj-core.version>3.27.3</assertj-core.version>
         <bouncycastle.version>1.80</bouncycastle.version>
         <jackson.version>2.18.3</jackson.version>
         <jersey.version>3.1.10</jersey.version>
