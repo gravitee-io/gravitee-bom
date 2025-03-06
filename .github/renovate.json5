@@ -3,22 +3,12 @@
   "baseBranches": ["master"],
   "packageRules": [
     {
+      // Group Vert.x & Netty related dependencies together
       "groupName": "Vert.x and related dependencies",
       "matchPackagePatterns": ["io.vertx:vertx-*", "io.netty:*"]
     },
     {
-      "matchPackagePatterns": [
-        "org.projectlombok:*",
-        "io.reactivex.rxjava2:*",
-        "io.reactivex.rxjava3:*",
-        "org.reactivestreams:*"
-      ],
-      "matchUpdateTypes": ["patch", "minor"],
-      "automerge": true,
-      "automergeType": "branch",
-      "semanticCommitType": "fix"
-    },
-    {
+      // Merge automatically minor and patch updates for Spring, Jackson and logging related dependencies
       "matchPackagePatterns": [
         "org.springframework:spring-framework-bom",
         "org.springframework.security:spring-security-bom",
@@ -32,7 +22,14 @@
       "semanticCommitType": "fix"
     },
     {
-      "matchPackagePatterns": ["org.junit:*", "org.mockito:*"],
+      // Merge automatically minor and patch updates for the following dependencies
+      "matchPackagePatterns": [
+        "org.projectlombok:*",
+        "io.reactivex.rxjava3:*",
+        "org.reactivestreams:*",
+        "org.junit:*",
+        "org.mockito:*"
+      ],
       "matchUpdateTypes": ["patch", "minor"],
       "automerge": true,
       "automergeType": "branch",
