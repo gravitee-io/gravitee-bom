@@ -1,6 +1,5 @@
 {
-  "extends": ["config:base"],
-  "rebaseWhen": "conflicted",
+  "extends": ["github>gravitee-io/renovate-config", "config:base"],
   "baseBranches": ["master"],
   "packageRules": [
     {
@@ -8,18 +7,11 @@
       "matchPackagePatterns": ["io.vertx:vertx-*", "io.netty:*"]
     },
     {
-      "matchDatasources": ["orb"],
-      "automerge": true,
-      "automergeType": "branch",
-      "semanticCommitType": "ci"
-    },
-    {
       "matchPackagePatterns": [
         "org.projectlombok:*",
         "io.reactivex.rxjava2:*",
         "io.reactivex.rxjava3:*",
-        "org.reactivestreams:*",
-        "io.gravitee:gravitee-parent"
+        "org.reactivestreams:*"
       ],
       "matchUpdateTypes": ["patch", "minor"],
       "automerge": true,
@@ -35,13 +27,6 @@
         "ch.qos.logback:*"
       ],
       "matchUpdateTypes": ["patch"],
-      "automerge": true,
-      "automergeType": "branch",
-      "semanticCommitType": "fix"
-    },
-    {
-      "matchDepTypes": ["test"],
-      "matchUpdateTypes": ["patch", "minor"],
       "automerge": true,
       "automergeType": "branch",
       "semanticCommitType": "fix"
