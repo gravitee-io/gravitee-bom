@@ -1,3 +1,11 @@
+## [8.2.12](https://github.com/gravitee-io/gravitee-bom/compare/8.2.11...8.2.12) (2025-03-06)
+
+
+### Bug Fixes
+
+* **deps:** update logback monorepo to v1.5.17 ([7b959aa](https://github.com/gravitee-io/gravitee-bom/commit/7b959aa5b346bccf6f129f67c299491dd7b42dc8))
+* **deps:** update org.springframework.security:spring-security-bom to v6.4.3 ([b381557](https://github.com/gravitee-io/gravitee-bom/commit/b38155733c4ac913442751e02e85ce0acf5d8f3a))
+
 ## [8.2.11](https://github.com/gravitee-io/gravitee-bom/compare/8.2.10...8.2.11) (2025-03-06)
 
 
