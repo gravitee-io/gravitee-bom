@@ -1,7 +1,7 @@
 {
   "extends": ["config:base"],
   "rebaseWhen": "conflicted",
-  "baseBranches": ["master", "7.x", "6.x"],
+  "baseBranches": ["master"],
   "packageRules": [
     {
       "groupName": "Vert.x and related dependencies",
@@ -50,76 +50,6 @@
       "matchPackagePatterns": ["org.junit:*", "org.mockito:*"],
       "matchUpdateTypes": ["patch", "minor"],
       "automerge": true,
-      "automergeType": "branch",
-      "semanticCommitType": "fix"
-    },
-    {
-      "matchBaseBranches": ["7.x"],
-      "matchPackagePatterns": ["org.springframework:spring-framework-bom"],
-      "allowedVersions": "<=6.1",
-      "automerge": false,
-      "automergeType": "branch",
-      "semanticCommitType": "fix"
-    },
-    {
-      "matchBaseBranches": ["7.x"],
-      "matchPackagePatterns": [
-        "org.springframework.security:spring-security-bom"
-      ],
-      "allowedVersions": "<=6.2",
-      "automerge": false,
-      "automergeType": "branch",
-      "semanticCommitType": "fix"
-    },
-    {
-      "matchBaseBranches": ["7.x"],
-      "matchPackagePatterns": ["io.vertx:vertx-*"],
-      "allowedVersions": "<=4.5",
-      "automerge": false,
-      "automergeType": "branch",
-      "semanticCommitType": "fix"
-    },
-    {
-      "matchBaseBranches": ["7.x"],
-      "groupName": "Vert.x and related dependencies",
-      "matchPackagePatterns": ["io.vertx:vertx-*", "io.netty:*"],
-      "matchUpdateTypes": ["patch"],
-      "automerge": false,
-      "automergeType": "branch",
-      "semanticCommitType": "fix"
-    },
-    {
-      "matchBaseBranches": ["6.x"],
-      "matchPackagePatterns": ["org.springframework:spring-framework-bom"],
-      "allowedVersions": "<=6.0",
-      "automerge": false,
-      "automergeType": "branch",
-      "semanticCommitType": "fix"
-    },
-    {
-      "matchBaseBranches": ["6.x"],
-      "matchPackagePatterns": [
-        "org.springframework.security:spring-security-bom"
-      ],
-      "allowedVersions": "<=6.1",
-      "automerge": false,
-      "automergeType": "branch",
-      "semanticCommitType": "fix"
-    },
-    {
-      "matchBaseBranches": ["6.x"],
-      "matchPackagePatterns": ["io.vertx:vertx-*"],
-      "allowedVersions": "<=4.4",
-      "automerge": false,
-      "automergeType": "branch",
-      "semanticCommitType": "fix"
-    },
-    {
-      "matchBaseBranches": ["6.x"],
-      "groupName": "Vert.x and related dependencies",
-      "matchPackagePatterns": ["io.vertx:vertx-*", "io.netty:*"],
-      "matchUpdateTypes": ["patch"],
-      "automerge": false,
       "automergeType": "branch",
       "semanticCommitType": "fix"
     }
