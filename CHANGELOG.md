@@ -1,3 +1,11 @@
+## [8.2.15](https://github.com/gravitee-io/gravitee-bom/compare/8.2.14...8.2.15) (2025-03-07)
+
+
+### Bug Fixes
+
+* **deps:** update io.gravitee:gravitee-parent to v23.1.0 ([30f8b9b](https://github.com/gravitee-io/gravitee-bom/commit/30f8b9b3fca17e946ae1a34eeaa4548975cc721a))
+* **deps:** update io.opentelemetry:opentelemetry-bom to v1.47.0 ([4db6cce](https://github.com/gravitee-io/gravitee-bom/commit/4db6cce468e184fe81036ae855ae9daadbe595e0))
+
 ## [8.2.14](https://github.com/gravitee-io/gravitee-bom/compare/8.2.13...8.2.14) (2025-03-07)
 
 
