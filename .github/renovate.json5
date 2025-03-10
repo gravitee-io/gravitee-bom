@@ -14,7 +14,8 @@
         "org.springframework.security:spring-security-bom",
         "org.slf4j:*",
         "com.fasterxml.jackson:*",
-        "ch.qos.logback:*"
+        "ch.qos.logback:*",
+        "io.opentelemetry:*"
       ],
       "matchUpdateTypes": ["patch"],
       "automerge": true,
