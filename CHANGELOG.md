@@ -1,3 +1,10 @@
+## [8.2.19](https://github.com/gravitee-io/gravitee-bom/compare/8.2.18...8.2.19) (2025-03-10)
+
+
+### Reverts
+
+* Revert "fix(deps): update io.opentelemetry:opentelemetry-bom to v1.48.0" ([5a5fa3f](https://github.com/gravitee-io/gravitee-bom/commit/5a5fa3f09e325f2912e672de1ad9600abc364c0c))
+
 ## [8.2.18](https://github.com/gravitee-io/gravitee-bom/compare/8.2.17...8.2.18) (2025-03-08)
 
 
