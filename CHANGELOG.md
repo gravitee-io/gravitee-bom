@@ -1,3 +1,10 @@
+## [8.2.20](https://github.com/gravitee-io/gravitee-bom/compare/8.2.19...8.2.20) (2025-03-10)
+
+
+### Bug Fixes
+
+* **deps:** update io.opentelemetry:opentelemetry-bom to v1.48.0 ([a8704a7](https://github.com/gravitee-io/gravitee-bom/commit/a8704a7f7ea09e14b28fa5e5a1eb768b4ba7d290))
+
 ## [8.2.19](https://github.com/gravitee-io/gravitee-bom/compare/8.2.18...8.2.19) (2025-03-10)
 
 
