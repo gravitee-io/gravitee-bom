@@ -14,8 +14,7 @@
         "org.springframework.security:spring-security-bom",
         "org.slf4j:*",
         "com.fasterxml.jackson:*",
-        "ch.qos.logback:*",
-        "io.opentelemetry:*"
+        "ch.qos.logback:*"
       ],
       "matchUpdateTypes": ["patch"],
       "automerge": true,
@@ -35,6 +34,13 @@
       "automerge": true,
       "automergeType": "branch",
       "semanticCommitType": "fix"
+    },
+    {
+      // Ignore update of opentelemetry until https://gravitee.atlassian.net/browse/ARCHI-486
+      "matchPackagePatterns": [
+        "io.opentelemetry:opentelemetry-bom"
+      ],
+      "enable": false
     }
   ]
 }
