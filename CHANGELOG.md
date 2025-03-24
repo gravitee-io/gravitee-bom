@@ -1,3 +1,10 @@
+## [8.2.22](https://github.com/gravitee-io/gravitee-bom/compare/8.2.21...8.2.22) (2025-03-24)
+
+
+### Bug Fixes
+
+* update spring security to 6.4.4 ([2bb4790](https://github.com/gravitee-io/gravitee-bom/commit/2bb47908add919caab3f685666c38e35b5e93a54))
+
 ## [8.2.21](https://github.com/gravitee-io/gravitee-bom/compare/8.2.20...8.2.21) (2025-03-11)
 
 
