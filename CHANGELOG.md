@@ -1,3 +1,10 @@
+# [8.3.0](https://github.com/gravitee-io/gravitee-bom/compare/8.2.22...8.3.0) (2025-05-05)
+
+
+### Features
+
+* add log4j-to-slf4j in dependency management (needed for libraries using log4j-api) ([458e0b8](https://github.com/gravitee-io/gravitee-bom/commit/458e0b88d1f5de6168f5f1b886d8a8331078aec0))
+
 ## [8.2.22](https://github.com/gravitee-io/gravitee-bom/compare/8.2.21...8.2.22) (2025-03-24)
 
 
