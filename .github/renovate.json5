@@ -40,7 +40,7 @@
       "matchPackagePatterns": [
         "io.opentelemetry:opentelemetry-bom"
       ],
-      "enable": false
+      "enabled": false
     }
   ]
 }
