@@ -1,3 +1,10 @@
+## [8.3.9](https://github.com/gravitee-io/gravitee-bom/compare/8.3.8...8.3.9) (2025-06-04)
+
+
+### Bug Fixes
+
+* **deps:** update org.testcontainers:testcontainers-bom to v1.21.1 ([5f6c30d](https://github.com/gravitee-io/gravitee-bom/commit/5f6c30d1ab18645f832739369d58f5ce640a3055))
+
 ## [8.3.8](https://github.com/gravitee-io/gravitee-bom/compare/8.3.7...8.3.8) (2025-06-04)
 
 
