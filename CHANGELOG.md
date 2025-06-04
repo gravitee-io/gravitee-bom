@@ -1,3 +1,11 @@
+## [8.3.8](https://github.com/gravitee-io/gravitee-bom/compare/8.3.7...8.3.8) (2025-06-04)
+
+
+### Bug Fixes
+
+* **deps:** update junit5 monorepo to v5.13.0 ([b31ec14](https://github.com/gravitee-io/gravitee-bom/commit/b31ec14d84a31fad7bd4ed970b92ef91976a7a85))
+* **deps:** update org.springframework.security:spring-security-bom to v6.5.0 ([7d0ea61](https://github.com/gravitee-io/gravitee-bom/commit/7d0ea615ba067451bd46ea134de2e2e85054ca86))
+
 ## [8.3.7](https://github.com/gravitee-io/gravitee-bom/compare/8.3.6...8.3.7) (2025-06-04)
 
 
