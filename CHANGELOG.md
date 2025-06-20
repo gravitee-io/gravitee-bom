@@ -1,3 +1,10 @@
+## [8.3.15](https://github.com/gravitee-io/gravitee-bom/compare/8.3.14...8.3.15) (2025-06-20)
+
+
+### Bug Fixes
+
+* **deps:** update io.gravitee:gravitee-parent to v23.3.0 ([43c6361](https://github.com/gravitee-io/gravitee-bom/commit/43c6361963c2afcee0818d11332f31e4493e5e92))
+
 ## [8.3.14](https://github.com/gravitee-io/gravitee-bom/compare/8.3.13...8.3.14) (2025-06-19)
 
 
