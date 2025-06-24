@@ -1,3 +1,10 @@
+## [8.3.16](https://github.com/gravitee-io/gravitee-bom/compare/8.3.15...8.3.16) (2025-06-24)
+
+
+### Bug Fixes
+
+* **deps:** update junit-jupiter.version to v5.13.2 ([52819dc](https://github.com/gravitee-io/gravitee-bom/commit/52819dc7df1c1c25d6436415ca7a2c0fd467e927))
+
 ## [8.3.15](https://github.com/gravitee-io/gravitee-bom/compare/8.3.14...8.3.15) (2025-06-20)
 
 
