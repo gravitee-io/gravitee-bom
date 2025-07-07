@@ -1,3 +1,10 @@
+## [8.3.22](https://github.com/gravitee-io/gravitee-bom/compare/8.3.21...8.3.22) (2025-07-07)
+
+
+### Bug Fixes
+
+* **deps:** update io.reactivex.rxjava3:rxjava to v3.1.11 ([dbc36fc](https://github.com/gravitee-io/gravitee-bom/commit/dbc36fcf53aa0176f2c6a40c7e3760e2c9547104))
+
 ## [8.3.21](https://github.com/gravitee-io/gravitee-bom/compare/8.3.20...8.3.21) (2025-07-04)
 
 
