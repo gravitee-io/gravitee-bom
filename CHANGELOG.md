@@ -1,3 +1,10 @@
+## [8.3.28](https://github.com/gravitee-io/gravitee-bom/compare/8.3.27...8.3.28) (2025-08-08)
+
+
+### Bug Fixes
+
+* **deps:** update org.glassfish.jersey:jersey-bom to v3.1.11 ([fcbc32b](https://github.com/gravitee-io/gravitee-bom/commit/fcbc32b06f0a411a6a5431b5c442299a87baf583))
+
 ## [8.3.27](https://github.com/gravitee-io/gravitee-bom/compare/8.3.26...8.3.27) (2025-08-07)
 
 
