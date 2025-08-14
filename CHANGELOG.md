@@ -1,3 +1,10 @@
+## [8.3.30](https://github.com/gravitee-io/gravitee-bom/compare/8.3.29...8.3.30) (2025-08-14)
+
+
+### Bug Fixes
+
+* **deps:** upgrade vertx 4.5.18 ([c1d061c](https://github.com/gravitee-io/gravitee-bom/commit/c1d061ca8f520e8378173c06c53a3eb3c42136f5))
+
 ## [8.3.29](https://github.com/gravitee-io/gravitee-bom/compare/8.3.28...8.3.29) (2025-08-13)
 
 
