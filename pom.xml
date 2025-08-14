@@ -80,7 +80,7 @@
         <rxjava3.version>3.1.11</rxjava3.version>
         <slf4j.version>2.0.17</slf4j.version>
         <log4j-to-slf4j.version>2.24.3</log4j-to-slf4j.version>
-        <spring.version>6.2.9</spring.version>
+        <spring.version>6.2.10</spring.version>
         <spring-security.version>6.5.2</spring-security.version>
         <testcontainers.version>1.21.3</testcontainers.version>
         <vertx.version>4.5.18</vertx.version>
