@@ -1,3 +1,10 @@
+## [8.3.32](https://github.com/gravitee-io/gravitee-bom/compare/8.3.31...8.3.32) (2025-08-15)
+
+
+### Bug Fixes
+
+* **deps:** update mockito monorepo to v5.19.0 ([6bda9b7](https://github.com/gravitee-io/gravitee-bom/commit/6bda9b77a7f18b6651faf35db7afeebe56dc1c2a))
+
 ## [8.3.31](https://github.com/gravitee-io/gravitee-bom/compare/8.3.30...8.3.31) (2025-08-14)
 
 
