@@ -1,3 +1,10 @@
+## [8.3.34](https://github.com/gravitee-io/gravitee-bom/compare/8.3.33...8.3.34) (2025-08-18)
+
+
+### Bug Fixes
+
+* **deps:** update jetty monorepo to v12.1.0 ([6cbd818](https://github.com/gravitee-io/gravitee-bom/commit/6cbd818f5ce02f66c593dd1f7057e26b6792eaaf))
+
 ## [8.3.33](https://github.com/gravitee-io/gravitee-bom/compare/8.3.32...8.3.33) (2025-08-18)
 
 
