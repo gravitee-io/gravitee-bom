@@ -64,7 +64,7 @@
     <properties>
         <assertj-core.version>3.27.4</assertj-core.version>
         <bouncycastle.version>1.80</bouncycastle.version>
-        <jackson.version>2.19.2</jackson.version>
+        <jackson.version>2.20.0</jackson.version>
         <jersey.version>3.1.11</jersey.version>
         <jetty.version>12.1.0</jetty.version>
         <junit.version>4.13.2</junit.version>
