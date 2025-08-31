@@ -1,3 +1,10 @@
+## [8.3.35](https://github.com/gravitee-io/gravitee-bom/compare/8.3.34...8.3.35) (2025-08-31)
+
+
+### Bug Fixes
+
+* **deps:** update com.fasterxml.jackson:jackson-bom to v2.20.0 ([b34f9e9](https://github.com/gravitee-io/gravitee-bom/commit/b34f9e98c1e1520470202affe52f2ca5be8905b0))
+
 ## [8.3.34](https://github.com/gravitee-io/gravitee-bom/compare/8.3.33...8.3.34) (2025-08-18)
 
 
