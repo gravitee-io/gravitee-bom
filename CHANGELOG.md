@@ -1,3 +1,12 @@
+## [8.3.38](https://github.com/gravitee-io/gravitee-bom/compare/8.3.37...8.3.38) (2025-09-10)
+
+
+### Bug Fixes
+
+* **deps:** update bouncycastle.version to v1.81 ([3c9a5d9](https://github.com/gravitee-io/gravitee-bom/commit/3c9a5d965a846fa3571b8f10e8a3dc4a60f58e3b))
+* **deps:** update org.apache.logging.log4j:log4j-to-slf4j to v2.25.1 ([4c32676](https://github.com/gravitee-io/gravitee-bom/commit/4c326765e7b6fdd514827471bac3dd3fc2a19d17))
+* **deps:** upgrade vertx 4.5.21 ([56669fe](https://github.com/gravitee-io/gravitee-bom/commit/56669fee957936f3bb32801266ae08d1212ee031))
+
 ## [8.3.37](https://github.com/gravitee-io/gravitee-bom/compare/8.3.36...8.3.37) (2025-09-08)
 
 
