@@ -83,7 +83,7 @@
         <spring.version>6.2.10</spring.version>
         <spring-security.version>6.5.3</spring-security.version>
         <testcontainers.version>1.21.3</testcontainers.version>
-        <vertx.version>4.5.21</vertx.version>
+        <vertx.version>5.0.4</vertx.version>
     </properties>
 
     <dependencyManagement>
