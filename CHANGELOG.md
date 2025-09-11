@@ -1,3 +1,10 @@
+## [8.3.39](https://github.com/gravitee-io/gravitee-bom/compare/8.3.38...8.3.39) (2025-09-11)
+
+
+### Bug Fixes
+
+* **deps:** update org.springframework:spring-framework-bom to v6.2.11 ([8478ee3](https://github.com/gravitee-io/gravitee-bom/commit/8478ee38062951efa0299d8268dcb3ebde22ce01))
+
 ## [8.3.38](https://github.com/gravitee-io/gravitee-bom/compare/8.3.37...8.3.38) (2025-09-10)
 
 
