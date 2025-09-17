@@ -1,3 +1,10 @@
+## [8.3.42](https://github.com/gravitee-io/gravitee-bom/compare/8.3.41...8.3.42) (2025-09-17)
+
+
+### Bug Fixes
+
+* **deps:** update org.springframework.security:spring-security-bom to v6.5.5 ([f4c2998](https://github.com/gravitee-io/gravitee-bom/commit/f4c299826bc7741498b6839e1b2d82f74eb3e187))
+
 ## [8.3.41](https://github.com/gravitee-io/gravitee-bom/compare/8.3.40...8.3.41) (2025-09-16)
 
 
