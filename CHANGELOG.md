@@ -1,3 +1,10 @@
+## [8.3.43](https://github.com/gravitee-io/gravitee-bom/compare/8.3.42...8.3.43) (2025-09-18)
+
+
+### Bug Fixes
+
+* **deps:** update org.projectlombok:lombok to v1.18.42 ([309098e](https://github.com/gravitee-io/gravitee-bom/commit/309098e219a98549b4476c2466ab8a1ad1d1daca))
+
 ## [8.3.42](https://github.com/gravitee-io/gravitee-bom/compare/8.3.41...8.3.42) (2025-09-17)
 
 
