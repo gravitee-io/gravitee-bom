@@ -72,7 +72,7 @@
         <logback.version>1.5.18</logback.version>
         <logback-json.version>0.1.5</logback-json.version>
         <lombok.version>1.18.42</lombok.version>
-        <mockito.version>5.19.0</mockito.version>
+        <mockito.version>5.20.0</mockito.version>
         <mockito-inline.version>5.2.0</mockito-inline.version>
         <netty.version>4.1.126.Final</netty.version>
         <opentelemetry.version>1.39.0</opentelemetry.version>
