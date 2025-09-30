@@ -79,7 +79,7 @@
         <reactive-streams.version>1.0.4</reactive-streams.version>
         <rxjava3.version>3.1.12</rxjava3.version>
         <slf4j.version>2.0.17</slf4j.version>
-        <log4j-to-slf4j.version>2.25.1</log4j-to-slf4j.version>
+        <log4j-to-slf4j.version>2.25.2</log4j-to-slf4j.version>
         <spring.version>6.2.11</spring.version>
         <spring-security.version>6.5.5</spring-security.version>
         <testcontainers.version>1.21.3</testcontainers.version>
