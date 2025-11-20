@@ -1,3 +1,10 @@
+## [8.3.47](https://github.com/gravitee-io/gravitee-bom/compare/8.3.46...8.3.47) (2025-11-20)
+
+
+### Bug Fixes
+
+* **deps:** Downgrade netty to 4.1.124.Final ([76d3da5](https://github.com/gravitee-io/gravitee-bom/commit/76d3da58db9ae6b2257a0848bcd1f4057694c1fb))
+
 ## [8.3.46](https://github.com/gravitee-io/gravitee-bom/compare/8.3.45...8.3.46) (2025-09-30)
 
 
