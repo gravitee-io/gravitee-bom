@@ -74,7 +74,7 @@
         <lombok.version>1.18.42</lombok.version>
         <mockito.version>5.20.0</mockito.version>
         <mockito-inline.version>5.2.0</mockito-inline.version>
-        <netty.version>4.1.124.Final</netty.version>
+        <netty.version>4.2.10.Final</netty.version>
         <opentelemetry.version>1.39.0</opentelemetry.version>
         <reactive-streams.version>1.0.4</reactive-streams.version>
         <rxjava3.version>3.1.12</rxjava3.version>
@@ -83,7 +83,7 @@
         <spring.version>6.2.11</spring.version>
         <spring-security.version>6.5.5</spring-security.version>
         <testcontainers.version>2.0.3</testcontainers.version>
-        <vertx.version>4.5.21</vertx.version>
+        <vertx.version>5.0.8</vertx.version>
     </properties>
 
     <dependencyManagement>
@@ -143,6 +143,16 @@
             <dependency>
                 <groupId>io.netty</groupId>
                 <artifactId>netty-handler-proxy</artifactId>
+                <version>${netty.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>io.netty</groupId>
+                <artifactId>netty-codec-base</artifactId>
+                <version>${netty.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>io.netty</groupId>
+                <artifactId>netty-codec-compression</artifactId>
                 <version>${netty.version}</version>
             </dependency>
             <dependency>
