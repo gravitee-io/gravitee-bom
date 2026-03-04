@@ -1,3 +1,15 @@
+# [9.0.0-beta.1](https://github.com/gravitee-io/gravitee-bom/compare/8.3.47...9.0.0-beta.1) (2026-03-04)
+
+
+### Bug Fixes
+
+* bump testcontainer version ([46cd326](https://github.com/gravitee-io/gravitee-bom/commit/46cd326bcd4fa9dab067a7c95ab601309d71fff7))
+
+
+### BREAKING CHANGES
+
+* major version of testContainer may break things
+
 # [9.0.0-alpha.1](https://github.com/gravitee-io/gravitee-bom/compare/8.3.47...9.0.0-alpha.1) (2026-03-02)
 
 
