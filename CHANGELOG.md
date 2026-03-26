@@ -1,3 +1,15 @@
+# [9.0.0-alpha.2](https://github.com/gravitee-io/gravitee-bom/compare/9.0.0-alpha.1...9.0.0-alpha.2) (2026-03-26)
+
+
+### Features
+
+* major upgrade of vertx (5.x) and Netty (4.2.x) ([8038053](https://github.com/gravitee-io/gravitee-bom/commit/8038053bd4256f23a27eb90c17282cbf9613f8bc))
+
+
+### BREAKING CHANGES
+
+* upgrade vertx to 5.0.x
+
 # [9.0.0-beta.2](https://github.com/gravitee-io/gravitee-bom/compare/9.0.0-beta.1...9.0.0-beta.2) (2026-03-04)
 
 
