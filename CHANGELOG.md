@@ -1,3 +1,11 @@
+## [8.3.48](https://github.com/gravitee-io/gravitee-bom/compare/8.3.47...8.3.48) (2026-04-02)
+
+
+### Bug Fixes
+
+* **deps:** update spring to v6.2.17 ([8fe1593](https://github.com/gravitee-io/gravitee-bom/commit/8fe1593221ec66cf4b78c309d1033cde992b1222))
+* **deps:** update spring-security to v6.5.9 ([207bc65](https://github.com/gravitee-io/gravitee-bom/commit/207bc6501f47e397ad97f579d52b5a06cda1a8a5))
+
 ## [8.3.47](https://github.com/gravitee-io/gravitee-bom/compare/8.3.46...8.3.47) (2025-11-20)
 
 
