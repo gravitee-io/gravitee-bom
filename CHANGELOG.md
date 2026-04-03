@@ -1,3 +1,11 @@
+## [8.3.49](https://github.com/gravitee-io/gravitee-bom/compare/8.3.48...8.3.49) (2026-04-03)
+
+
+### Bug Fixes
+
+* **deps:** update netty to v4.1.132.Final ([e268879](https://github.com/gravitee-io/gravitee-bom/commit/e26887911890430fd54163924243eec34694bb88))
+* **deps:** update vertx to v4.5.26 ([9093c11](https://github.com/gravitee-io/gravitee-bom/commit/9093c1107fd0d7f2711b33e2840f9d983fd66b90))
+
 ## [8.3.48](https://github.com/gravitee-io/gravitee-bom/compare/8.3.47...8.3.48) (2026-04-02)
 
 
