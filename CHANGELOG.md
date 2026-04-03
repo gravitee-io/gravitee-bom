@@ -1,3 +1,10 @@
+# [9.0.0-alpha.4](https://github.com/gravitee-io/gravitee-bom/compare/9.0.0-alpha.3...9.0.0-alpha.4) (2026-04-03)
+
+
+### Bug Fixes
+
+* **deps:** bump vertx to 5.0.10 and netty to 4.2.12.Final ([5d9f2a2](https://github.com/gravitee-io/gravitee-bom/commit/5d9f2a2f42661371707fe3400d36251a810911b3))
+
 # [9.0.0-alpha.3](https://github.com/gravitee-io/gravitee-bom/compare/9.0.0-alpha.2...9.0.0-alpha.3) (2026-04-03)
 
 
