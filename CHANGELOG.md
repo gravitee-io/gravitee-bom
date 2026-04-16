@@ -1,3 +1,10 @@
+## [8.3.50](https://github.com/gravitee-io/gravitee-bom/compare/8.3.49...8.3.50) (2026-04-16)
+
+
+### Bug Fixes
+
+* **deps:** update jetty to 12.1.8 ([069c7c4](https://github.com/gravitee-io/gravitee-bom/commit/069c7c4673a753122f15e3a15b905ca4308296b9))
+
 ## [8.3.49](https://github.com/gravitee-io/gravitee-bom/compare/8.3.48...8.3.49) (2026-04-03)
 
 
