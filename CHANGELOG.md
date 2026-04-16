@@ -1,3 +1,10 @@
+# [9.0.0-alpha.5](https://github.com/gravitee-io/gravitee-bom/compare/9.0.0-alpha.4...9.0.0-alpha.5) (2026-04-16)
+
+
+### Bug Fixes
+
+* **deps:** update jetty to 12.1.8 ([b8d2886](https://github.com/gravitee-io/gravitee-bom/commit/b8d288613e89367a50827913ac15f90c885950bf))
+
 # [9.0.0-alpha.4](https://github.com/gravitee-io/gravitee-bom/compare/9.0.0-alpha.3...9.0.0-alpha.4) (2026-04-03)
 
 
