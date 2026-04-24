@@ -1,3 +1,10 @@
+## [8.3.52](https://github.com/gravitee-io/gravitee-bom/compare/8.3.51...8.3.52) (2026-04-24)
+
+
+### Bug Fixes
+
+* bump spring security ([6043ecf](https://github.com/gravitee-io/gravitee-bom/commit/6043ecf0afd6baf6aabd190396a0408cbd653cd5))
+
 ## [8.3.51](https://github.com/gravitee-io/gravitee-bom/compare/8.3.50...8.3.51) (2026-04-24)
 
 
