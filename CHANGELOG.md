@@ -1,3 +1,11 @@
+## [8.3.53](https://github.com/gravitee-io/gravitee-bom/compare/8.3.52...8.3.53) (2026-04-24)
+
+
+### Bug Fixes
+
+* **deps:** update logback monorepo to v1.5.32 ([#312](https://github.com/gravitee-io/gravitee-bom/issues/312)) ([29e122c](https://github.com/gravitee-io/gravitee-bom/commit/29e122c71b794f88987020d012fbe081e1629291))
+* **deps:** update org.projectlombok:lombok to v1.18.46 ([#313](https://github.com/gravitee-io/gravitee-bom/issues/313)) ([10e107c](https://github.com/gravitee-io/gravitee-bom/commit/10e107c6677694c59177a709f2c030e92c55e916))
+
 ## [8.3.52](https://github.com/gravitee-io/gravitee-bom/compare/8.3.51...8.3.52) (2026-04-24)
 
 
