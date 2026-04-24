@@ -1,3 +1,10 @@
+## [8.3.51](https://github.com/gravitee-io/gravitee-bom/compare/8.3.50...8.3.51) (2026-04-24)
+
+
+### Bug Fixes
+
+* **deps:** update junit-framework monorepo to v5.14.3 ([#311](https://github.com/gravitee-io/gravitee-bom/issues/311)) ([8db90c7](https://github.com/gravitee-io/gravitee-bom/commit/8db90c734ee81af0a46b9d3d163a13eff349bd99))
+
 ## [8.3.50](https://github.com/gravitee-io/gravitee-bom/compare/8.3.49...8.3.50) (2026-04-16)
 
 
