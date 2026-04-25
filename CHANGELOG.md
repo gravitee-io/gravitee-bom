@@ -1,3 +1,11 @@
+## [8.3.54](https://github.com/gravitee-io/gravitee-bom/compare/8.3.53...8.3.54) (2026-04-25)
+
+
+### Bug Fixes
+
+* **deps:** update org.springframework:spring-framework-bom to v6.2.18 ([4e465f4](https://github.com/gravitee-io/gravitee-bom/commit/4e465f48717660ff19b7fb1fc1880462ecb07660))
+* **deps:** update org.testcontainers:testcontainers-bom to v1.21.4 ([#314](https://github.com/gravitee-io/gravitee-bom/issues/314)) ([8e5adfa](https://github.com/gravitee-io/gravitee-bom/commit/8e5adfa2f35dac85b387858e430ba4024f1150aa))
+
 ## [8.3.53](https://github.com/gravitee-io/gravitee-bom/compare/8.3.52...8.3.53) (2026-04-24)
 
 
