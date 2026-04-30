@@ -1,3 +1,10 @@
+## [6.0.63](https://github.com/gravitee-io/gravitee-bom/compare/6.0.62...6.0.63) (2026-04-30)
+
+
+### Bug Fixes
+
+* **deps:** APIM-13243 bump jackson core version to 2.21.2 ([482e7cf](https://github.com/gravitee-io/gravitee-bom/commit/482e7cfcddd7295792be461e2046e28248dc0d81))
+
 ## [6.0.62](https://github.com/gravitee-io/gravitee-bom/compare/6.0.61...6.0.62) (2025-01-21)
 
 
