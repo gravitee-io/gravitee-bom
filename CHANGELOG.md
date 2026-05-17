@@ -1,3 +1,11 @@
+## [8.3.58](https://github.com/gravitee-io/gravitee-bom/compare/8.3.57...8.3.58) (2026-05-17)
+
+
+### Bug Fixes
+
+* **deps:** update com.fasterxml.jackson:jackson-bom to v2.21.3 ([#319](https://github.com/gravitee-io/gravitee-bom/issues/319)) ([6991526](https://github.com/gravitee-io/gravitee-bom/commit/6991526a18c3237fcf55628832d03da056cecd00))
+* **deps:** update jetty monorepo to v12.1.9 ([#320](https://github.com/gravitee-io/gravitee-bom/issues/320)) ([28d235b](https://github.com/gravitee-io/gravitee-bom/commit/28d235ba7258212db2263e424530b96c3896881e))
+
 ## [8.3.57](https://github.com/gravitee-io/gravitee-bom/compare/8.3.56...8.3.57) (2026-05-17)
 
 
