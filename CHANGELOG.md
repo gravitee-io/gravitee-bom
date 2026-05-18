@@ -1,3 +1,10 @@
+# [9.0.0-alpha.6](https://github.com/gravitee-io/gravitee-bom/compare/9.0.0-alpha.5...9.0.0-alpha.6) (2026-05-18)
+
+
+### Bug Fixes
+
+* upgrade nettyto 4.2.13 and vertx to 5.0.12 ([cdbce8e](https://github.com/gravitee-io/gravitee-bom/commit/cdbce8e3ab05111b44a81c2527623bc96a39f354))
+
 # [9.0.0-alpha.5](https://github.com/gravitee-io/gravitee-bom/compare/9.0.0-alpha.4...9.0.0-alpha.5) (2026-04-16)
 
 
