@@ -1,3 +1,10 @@
+## [8.3.62](https://github.com/gravitee-io/gravitee-bom/compare/8.3.61...8.3.62) (2026-06-15)
+
+
+### Bug Fixes
+
+* **dep:** upgrade netty to 4.1.135 and vertx to 4.5.28 ([d29a91d](https://github.com/gravitee-io/gravitee-bom/commit/d29a91d0342e5012ed404c71cae5ff79bbf27d55))
+
 ## [8.3.61](https://github.com/gravitee-io/gravitee-bom/compare/8.3.60...8.3.61) (2026-05-18)
 
 
