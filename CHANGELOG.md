@@ -1,3 +1,24 @@
+# [9.0.0](https://github.com/gravitee-io/gravitee-bom/compare/8.3.62...9.0.0) (2026-06-16)
+
+
+### Bug Fixes
+
+* bump testcontainer version ([bcacf77](https://github.com/gravitee-io/gravitee-bom/commit/bcacf77ee2bddbdd05c94264dc7c7819ae2fd46a))
+* **deps:** bump vertx to 5.0.10 and netty to 4.2.12.Final ([b3ebd01](https://github.com/gravitee-io/gravitee-bom/commit/b3ebd013a56d7dc9d6c3cc84feb158c5b7bd94d2))
+* upgrade netty to 4.2.15 ([049a85c](https://github.com/gravitee-io/gravitee-bom/commit/049a85c634cc91203f4091961796da553105e587))
+* upgrade nettyto 4.2.13 and vertx to 5.0.12 ([f165e87](https://github.com/gravitee-io/gravitee-bom/commit/f165e878fea4d8636aec049d520d4b0cd9226689))
+
+
+### Features
+
+* major upgrade of vertx (5.x) and Netty (4.2.x) ([63b923c](https://github.com/gravitee-io/gravitee-bom/commit/63b923c6a0bc6a358ba27168c92b6772fc432974))
+
+
+### BREAKING CHANGES
+
+* upgrade vertx to 5.0.x
+* major version of testContainer may break things
+
 ## [8.3.62](https://github.com/gravitee-io/gravitee-bom/compare/8.3.61...8.3.62) (2026-06-15)
 
 
