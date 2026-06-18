@@ -1,3 +1,10 @@
+## [8.3.63](https://github.com/gravitee-io/gravitee-bom/compare/8.3.62...8.3.63) (2026-06-18)
+
+
+### Bug Fixes
+
+* upgrade spring to 6.2.19 ([1cfab65](https://github.com/gravitee-io/gravitee-bom/commit/1cfab65c2a0892d9bb4f79bbec007b04fc500abb))
+
 ## [8.3.62](https://github.com/gravitee-io/gravitee-bom/compare/8.3.61...8.3.62) (2026-06-15)
 
 
