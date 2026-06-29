@@ -1,3 +1,10 @@
+## [8.3.64](https://github.com/gravitee-io/gravitee-bom/compare/8.3.63...8.3.64) (2026-06-29)
+
+
+### Bug Fixes
+
+* bump jackson to solve CVE ([1f667ab](https://github.com/gravitee-io/gravitee-bom/commit/1f667ab05f0a3403cd8bb4fa287b0eb12ce6d38e))
+
 ## [8.3.63](https://github.com/gravitee-io/gravitee-bom/compare/8.3.62...8.3.63) (2026-06-18)
 
 
