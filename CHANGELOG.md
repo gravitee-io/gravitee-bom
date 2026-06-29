@@ -1,3 +1,10 @@
+## [9.0.2](https://github.com/gravitee-io/gravitee-bom/compare/9.0.1...9.0.2) (2026-06-29)
+
+
+### Bug Fixes
+
+* bump jackson to solve CVE ([90a5124](https://github.com/gravitee-io/gravitee-bom/commit/90a5124f8612458d835ca701e7d2657488a24e82))
+
 ## [9.0.1](https://github.com/gravitee-io/gravitee-bom/compare/9.0.0...9.0.1) (2026-06-18)
 
 
