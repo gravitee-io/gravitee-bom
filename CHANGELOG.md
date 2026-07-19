@@ -1,3 +1,10 @@
+## [9.0.5](https://github.com/gravitee-io/gravitee-bom/compare/9.0.4...9.0.5) (2026-07-19)
+
+
+### Bug Fixes
+
+* **deps:** update logback monorepo to v1.5.38 ([#338](https://github.com/gravitee-io/gravitee-bom/issues/338)) ([674fb7a](https://github.com/gravitee-io/gravitee-bom/commit/674fb7a77673f2263b747189df212c8b124cfe10))
+
 ## [9.0.4](https://github.com/gravitee-io/gravitee-bom/compare/9.0.3...9.0.4) (2026-07-19)
 
 
