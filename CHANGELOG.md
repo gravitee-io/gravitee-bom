@@ -1,3 +1,10 @@
+## [6.0.64](https://github.com/gravitee-io/gravitee-bom/compare/6.0.63...6.0.64) (2026-07-28)
+
+
+### Bug Fixes
+
+* trigger another release fixing nexus deploy ([8793cae](https://github.com/gravitee-io/gravitee-bom/commit/8793cae8f2cdd51b9b4244905cc2f5ad276dc45b))
+
 ## [6.0.63](https://github.com/gravitee-io/gravitee-bom/compare/6.0.62...6.0.63) (2026-04-30)
 
 
