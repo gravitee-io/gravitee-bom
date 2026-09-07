@@ -1,3 +1,11 @@
+## [9.0.6](https://github.com/gravitee-io/gravitee-bom/compare/9.0.5...9.0.6) (2026-09-07)
+
+
+### Bug Fixes
+
+* **dep:** bump bouncycastle in 1.85 ([b859dca](https://github.com/gravitee-io/gravitee-bom/commit/b859dca57b4bd21628692d04418a8bff8dbdef05))
+* **dep:** bump jetty 12.1.13 ([c28b654](https://github.com/gravitee-io/gravitee-bom/commit/c28b654188ca6059a4c037c0c776ffb4b0df51cb))
+
 ## [9.0.5](https://github.com/gravitee-io/gravitee-bom/compare/9.0.4...9.0.5) (2026-07-19)
 
 
