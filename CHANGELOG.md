@@ -1,3 +1,10 @@
+## [8.3.67](https://github.com/gravitee-io/gravitee-bom/compare/8.3.66...8.3.67) (2026-10-05)
+
+
+### Bug Fixes
+
+* **deps:** manage netty-tcnative alongside netty ([63d14ce](https://github.com/gravitee-io/gravitee-bom/commit/63d14ce8eaca810a50f87b2b4955e65b2688f444))
+
 ## [8.3.66](https://github.com/gravitee-io/gravitee-bom/compare/8.3.65...8.3.66) (2026-09-07)
 
 
