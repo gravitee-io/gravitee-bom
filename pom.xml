@@ -71,7 +71,7 @@
         <junit-jupiter.version>5.14.4</junit-jupiter.version>
         <logback.version>1.5.38</logback.version>
         <logback-json.version>0.1.5</logback-json.version>
-        <lombok.version>1.18.46</lombok.version>
+        <lombok.version>1.18.48</lombok.version>
         <mockito.version>5.23.0</mockito.version>
         <mockito-inline.version>5.2.0</mockito-inline.version>
         <netty.version>4.2.19.Final</netty.version>
@@ -83,7 +83,7 @@
         <log4j-to-slf4j.version>2.26.1</log4j-to-slf4j.version>
         <spring.version>6.2.19</spring.version>
         <spring-security.version>6.5.11</spring-security.version>
-        <testcontainers.version>2.0.3</testcontainers.version>
+        <testcontainers.version>2.0.5</testcontainers.version>
         <vertx.version>5.0.12</vertx.version>
     </properties>
 
