@@ -1,3 +1,10 @@
+## [8.3.69](https://github.com/gravitee-io/gravitee-bom/compare/8.3.68...8.3.69) (2026-10-09)
+
+
+### Bug Fixes
+
+* **deps:** revert bouncycastle to 1.85 ([12f3a8a](https://github.com/gravitee-io/gravitee-bom/commit/12f3a8a6b40e75b6bfe5716b08d979c08f907af8))
+
 ## [8.3.68](https://github.com/gravitee-io/gravitee-bom/compare/8.3.67...8.3.68) (2026-10-09)
 
 
