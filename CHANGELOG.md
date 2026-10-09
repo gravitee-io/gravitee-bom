@@ -1,3 +1,13 @@
+## [8.3.68](https://github.com/gravitee-io/gravitee-bom/compare/8.3.67...8.3.68) (2026-10-09)
+
+
+### Bug Fixes
+
+* **deps:** update bouncycastle and lombok patch versions ([9d81ee9](https://github.com/gravitee-io/gravitee-bom/commit/9d81ee9b74fcb58e2f33ed0533f77f9535f57d94))
+* **deps:** update jackson, jersey and jetty patch versions ([191cda4](https://github.com/gravitee-io/gravitee-bom/commit/191cda4afa594d0ac673f081f375998e4ee6e67d))
+* **deps:** update logging dependencies patch versions ([fda00cc](https://github.com/gravitee-io/gravitee-bom/commit/fda00ccd1616898c70049ad3c0d21391c4884075))
+* **deps:** update netty to 4.1.139.Final and vertx to 4.5.35 ([571d99f](https://github.com/gravitee-io/gravitee-bom/commit/571d99f3951310d6e11388c28caf808d2931a366))
+
 ## [8.3.67](https://github.com/gravitee-io/gravitee-bom/compare/8.3.66...8.3.67) (2026-10-05)
 
 
