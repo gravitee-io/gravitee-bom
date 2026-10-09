@@ -1,3 +1,13 @@
+## [9.0.8](https://github.com/gravitee-io/gravitee-bom/compare/9.0.7...9.0.8) (2026-10-09)
+
+
+### Bug Fixes
+
+* **deps:** update bouncycastle, lombok and testcontainers patch versions ([55d3957](https://github.com/gravitee-io/gravitee-bom/commit/55d395787ebdb80199add1a68dd0e8d44f543c29))
+* **deps:** update jackson, jersey and jetty patch versions ([9e574ef](https://github.com/gravitee-io/gravitee-bom/commit/9e574efdca7ab0c4eb9c92f6261dfade2e847673))
+* **deps:** update netty to 4.2.19.Final ([a01842e](https://github.com/gravitee-io/gravitee-bom/commit/a01842e1b77cdd55c700361153b341b0a01286a5))
+* **deps:** update slf4j to 2.0.20 and log4j-to-slf4j to 2.26.1 ([dea4940](https://github.com/gravitee-io/gravitee-bom/commit/dea494057712b229a0a6d28f60396d7163566735))
+
 ## [9.0.7](https://github.com/gravitee-io/gravitee-bom/compare/9.0.6...9.0.7) (2026-10-05)
 
 
