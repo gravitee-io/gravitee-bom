@@ -1,3 +1,10 @@
+## [9.0.10](https://github.com/gravitee-io/gravitee-bom/compare/9.0.9...9.0.10) (2026-10-19)
+
+
+### Bug Fixes
+
+* **deps:** revert netty to 4.2.15.Final ([e419e6c](https://github.com/gravitee-io/gravitee-bom/commit/e419e6c0b5b508580b3466ef3be08b5ac26e8ba8))
+
 ## [9.0.9](https://github.com/gravitee-io/gravitee-bom/compare/9.0.8...9.0.9) (2026-10-09)
 
 
