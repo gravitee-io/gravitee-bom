@@ -1,3 +1,10 @@
+## [9.0.11](https://github.com/gravitee-io/gravitee-bom/compare/9.0.10...9.0.11) (2026-10-29)
+
+
+### Bug Fixes
+
+* **deps:** import jackson-bom first so jackson.version is not overridden ([a2d523e](https://github.com/gravitee-io/gravitee-bom/commit/a2d523e3a0bb617f92abe6766e0d69dfbdd67700))
+
 ## [9.0.10](https://github.com/gravitee-io/gravitee-bom/compare/9.0.9...9.0.10) (2026-10-19)
 
 
