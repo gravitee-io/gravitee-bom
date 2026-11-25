@@ -1,3 +1,10 @@
+## [9.0.12](https://github.com/gravitee-io/gravitee-bom/compare/9.0.11...9.0.12) (2026-11-25)
+
+
+### Bug Fixes
+
+* **deps:** update netty to 4.2.21.Final and netty-tcnative to 2.0.85.Final ([4398f43](https://github.com/gravitee-io/gravitee-bom/commit/4398f43290bd760bf19c55cc7f9eeb9e4a2b64df))
+
 ## [9.0.11](https://github.com/gravitee-io/gravitee-bom/compare/9.0.10...9.0.11) (2026-10-29)
 
 
